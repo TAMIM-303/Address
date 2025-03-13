@@ -1,0 +1,1000 @@
+David Johnson,793 Maple Dr,Los Angeles,CA,90001,11/3/1982,Rented,+1-848-887-9149
+Linda Jones,313 1st Pl,Los Angeles,CA,90001,11/24/1970,Owned,+1-674-655-8635
+Emily Williams,746 Maple Ave,Philadelphia,PA,19101,3/16/1954,Rented,+1-276-131-8629
+John Garcia,204 3rd Ln,New York,NY,10001,12/8/1967,Owned,+1-624-993-8839
+David Miller,57 Hill Way,Phoenix,AZ,85001,3/15/1995,Owned,+1-268-606-2002
+David Rodriguez,615 Maple Ave,Philadelphia,PA,19101,2/9/1978,Owned,+1-800-220-504
+Robert Williams,511 Oak Pl,San Antonio,TX,78201,4/15/1986,Owned,+1-381-753-9054
+Michael Davis,887 8th Way,Dallas,TX,75201,9/22/1975,Rented,+1-315-562-3414
+Robert Brown,740 7th Rd,Houston,TX,77001,9/20/1953,Rented,+1-663-484-963
+Emily Garcia,102 6th Blvd,New York,NY,10001,4/14/1971,Owned,+1-765-411-1067
+Emily Rodriguez,12 7th St,Dallas,TX,75201,11/16/1961,Owned,+1-772-103-4232
+Linda Williams,63 Pine Rd,San Diego,CA,92101,1/15/1975,Owned,+1-628-853-643
+Sarah Brown,738 3rd St,Phoenix,AZ,85001,8/22/1960,Rented,+1-484-109-1386
+David Johnson,402 Elm Rd,Chicago,IL,60601,5/26/1977,Owned,+1-828-542-1843
+Robert Martinez,623 Oak Ln,San Antonio,TX,78201,2/7/1985,Rented,+1-161-186-8555
+Jane Jones,75 Park Ln,San Jose,CA,95101,5/1/1970,Rented,+1-976-958-6804
+Emily Garcia,107 5th Rd,San Diego,CA,92101,2/9/1998,Rented,+1-436-906-8216
+Sarah Garcia,711 Oak Way,Phoenix,AZ,85001,2/5/1969,Owned,+1-454-534-1342
+David Brown,150 8th Pl,San Diego,CA,92101,11/25/1965,Owned,+1-892-703-1695
+Jane Miller,73 9th St,Phoenix,AZ,85001,2/6/1979,Rented,+1-707-514-4261
+Jane Smith,506 1st Ave,Phoenix,AZ,85001,5/15/1958,Owned,+1-833-165-5311
+Emily Miller,502 Main Rd,San Jose,CA,95101,3/4/1976,Rented,+1-681-329-8320
+Emily Williams,77 Oak Blvd,Chicago,IL,60601,5/25/1990,Rented,+1-122-360-4343
+Robert Garcia,435 Oak Blvd,Chicago,IL,60601,3/5/1991,Owned,+1-534-244-3907
+Linda Martinez,894 Lake St,San Jose,CA,95101,4/5/1995,Owned,+1-223-779-2564
+John Garcia,421 Lake Rd,Philadelphia,PA,19101,5/26/1987,Rented,+1-886-703-3741
+Karen Smith,726 Maple Way,Phoenix,AZ,85001,8/2/1971,Rented,+1-364-573-3421
+John Miller,64 8th Way,San Diego,CA,92101,11/10/1989,Rented,+1-569-518-5671
+John Davis,54 Maple Dr,Philadelphia,PA,19101,12/7/1984,Rented,+1-797-320-1077
+Karen Williams,151 Elm Way,New York,NY,10001,2/23/1998,Rented,+1-265-825-9137
+Emily Miller,769 8th Rd,New York,NY,10001,10/26/1976,Rented,+1-696-684-9228
+John Garcia,352 View Pl,San Jose,CA,95101,4/17/1952,Owned,+1-623-461-4434
+Jane Miller,632 Sunset Ave,Dallas,TX,75201,10/24/1967,Owned,+1-267-261-3829
+Karen Davis,711 6th St,Chicago,IL,60601,5/16/1966,Owned,+1-447-370-2489
+John Jones,292 Sunset Ave,Phoenix,AZ,85001,2/11/1991,Owned,+1-274-988-1993
+Robert Jones,856 Sunset Ln,Philadelphia,PA,19101,10/5/1957,Owned,+1-350-233-6367
+Karen Garcia,188 Pine St,Phoenix,AZ,85001,1/20/1999,Rented,+1-569-504-7558
+David Garcia,316 Hill St,Philadelphia,PA,19101,7/12/1968,Owned,+1-988-127-6308
+Jane Martinez,397 Cedar St,Philadelphia,PA,19101,9/21/1958,Rented,+1-133-856-7169
+Robert Garcia,303 Maple Ct,Houston,TX,77001,3/9/1957,Owned,+1-463-905-3604
+Michael Martinez,740 View St,Dallas,TX,75201,4/22/1979,Owned,+1-595-357-8930
+Linda Brown,921 4th Ave,Phoenix,AZ,85001,11/28/1975,Owned,+1-172-598-8811
+James Garcia,762 4th Dr,Houston,TX,77001,6/12/1955,Rented,+1-856-668-4794
+Sarah Garcia,448 4th St,Philadelphia,PA,19101,4/23/1987,Rented,+1-966-405-466
+Michael Smith,354 5th St,Houston,TX,77001,12/20/1978,Owned,+1-109-751-1954
+Karen Rodriguez,8 Cedar Ln,Dallas,TX,75201,7/14/1997,Rented,+1-689-122-2237
+James Williams,522 Park Ave,San Jose,CA,95101,4/27/1995,Owned,+1-888-285-6716
+Karen Miller,863 5th Dr,Dallas,TX,75201,11/24/1968,Owned,+1-994-401-199
+Michael Brown,839 3rd Rd,Chicago,IL,60601,3/5/1958,Rented,+1-941-174-799
+Robert Smith,109 Hill Pl,Houston,TX,77001,9/15/1955,Rented,+1-613-709-8563
+Michael Brown,787 5th Ave,Phoenix,AZ,85001,7/28/1992,Owned,+1-335-870-4305
+Emily Davis,306 Main Way,San Diego,CA,92101,3/21/1973,Rented,+1-274-412-9488
+Sarah Davis,855 Sunset Ave,Chicago,IL,60601,4/21/1961,Owned,+1-595-346-737
+John Rodriguez,428 Sunset Pl,New York,NY,10001,4/8/1983,Rented,+1-269-284-5408
+Karen Williams,715 3rd St,San Jose,CA,95101,8/24/1959,Rented,+1-278-894-3223
+David Miller,280 Cedar Pl,Dallas,TX,75201,8/9/1970,Owned,+1-169-954-4555
+Jane Brown,318 4th St,San Antonio,TX,78201,3/2/1965,Owned,+1-367-341-6292
+David Garcia,919 8th Ave,San Diego,CA,92101,12/9/1987,Rented,+1-629-919-5684
+Robert Rodriguez,432 Park Pl,San Antonio,TX,78201,11/7/1968,Rented,+1-517-742-57
+Linda Martinez,646 Pine Blvd,Houston,TX,77001,1/14/1958,Owned,+1-646-519-787
+Jane Johnson,462 Cedar Dr,New York,NY,10001,10/10/1956,Rented,+1-895-177-2446
+Jane Davis,960 Pine Ave,New York,NY,10001,7/26/1952,Owned,+1-790-448-4268
+Robert Garcia,835 Park Ln,San Jose,CA,95101,11/14/1968,Owned,+1-284-852-5190
+Emily Martinez,234 Oak Way,San Jose,CA,95101,10/14/1959,Rented,+1-780-316-3781
+Jane Martinez,425 Hill Ln,Phoenix,AZ,85001,10/24/1987,Owned,+1-670-330-760
+Emily Jones,300 9th Rd,New York,NY,10001,9/10/1993,Rented,+1-928-272-3514
+Karen Miller,433 View Blvd,San Diego,CA,92101,11/7/1978,Rented,+1-129-893-8595
+Jane Jones,645 Lake Ln,Los Angeles,CA,90001,3/16/1974,Owned,+1-847-493-7543
+James Davis,585 Elm Ct,Houston,TX,77001,5/1/1951,Rented,+1-979-792-9051
+Linda Martinez,283 Elm Ln,Phoenix,AZ,85001,6/10/1960,Rented,+1-818-287-2280
+James Martinez,766 3rd Way,Houston,TX,77001,10/24/1977,Rented,+1-946-397-3847
+Jane Rodriguez,18 8th Ave,New York,NY,10001,1/13/1974,Rented,+1-518-454-6706
+Emily Miller,790 4th Blvd,San Antonio,TX,78201,12/6/1991,Owned,+1-255-529-9879
+Jane Johnson,87 Elm Ct,Philadelphia,PA,19101,12/2/1998,Owned,+1-250-145-1163
+Karen Williams,781 3rd Way,San Antonio,TX,78201,1/15/1991,Rented,+1-632-115-4740
+Sarah Williams,911 6th St,Los Angeles,CA,90001,12/4/1976,Owned,+1-811-579-5327
+Sarah Martinez,630 Oak Pl,San Antonio,TX,78201,11/21/1977,Rented,+1-403-402-659
+Karen Johnson,174 6th Blvd,San Diego,CA,92101,10/28/1987,Rented,+1-306-525-4915
+Jane Williams,133 Lake Blvd,New York,NY,10001,7/8/1965,Owned,+1-190-104-8415
+John Davis,103 9th Way,San Diego,CA,92101,8/5/1994,Rented,+1-978-185-943
+Emily Martinez,584 Park Blvd,New York,NY,10001,5/23/1952,Rented,+1-105-576-320
+James Rodriguez,735 6th Pl,San Diego,CA,92101,9/2/1987,Owned,+1-178-823-5591
+Robert Williams,298 5th Blvd,Dallas,TX,75201,12/27/1999,Owned,+1-594-986-605
+Jane Davis,395 3rd Way,Chicago,IL,60601,8/28/1973,Owned,+1-351-868-5874
+David Smith,366 2nd St,Phoenix,AZ,85001,2/3/1999,Owned,+1-728-977-3558
+James Rodriguez,655 3rd Dr,Los Angeles,CA,90001,6/2/1987,Owned,+1-619-902-8343
+Robert Miller,435 Cedar Blvd,Dallas,TX,75201,11/13/1997,Owned,+1-234-105-4229
+Michael Davis,650 8th Way,Los Angeles,CA,90001,1/23/1979,Rented,+1-650-767-3980
+Michael Martinez,855 Main Ln,Phoenix,AZ,85001,12/2/1967,Owned,+1-565-411-5665
+Sarah Garcia,675 2nd Blvd,Chicago,IL,60601,2/17/1993,Rented,+1-157-844-1388
+John Rodriguez,143 Main Rd,Philadelphia,PA,19101,10/17/1954,Owned,+1-252-112-4077
+Robert Williams,855 Maple Rd,Los Angeles,CA,90001,3/12/1950,Owned,+1-285-838-5662
+Michael Williams,566 Lake Ct,Los Angeles,CA,90001,1/26/1952,Rented,+1-751-443-2485
+Jane Davis,497 1st Blvd,San Diego,CA,92101,9/16/1996,Owned,+1-303-198-176
+Linda Williams,877 Main Ave,New York,NY,10001,8/16/1997,Rented,+1-402-560-3199
+Karen Williams,994 2nd Rd,Houston,TX,77001,1/17/1989,Owned,+1-800-597-1447
+Linda Garcia,453 Main Rd,Phoenix,AZ,85001,4/26/1960,Rented,+1-258-363-8686
+David Davis,698 4th Way,Philadelphia,PA,19101,7/6/1987,Owned,+1-214-707-5290
+David Miller,845 2nd Ave,San Diego,CA,92101,10/7/1992,Owned,+1-778-188-4177
+Linda Williams,516 Elm Ln,San Jose,CA,95101,10/22/1965,Rented,+1-714-370-8890
+Emily Rodriguez,744 Main Dr,New York,NY,10001,10/26/1957,Owned,+1-652-740-2559
+Linda Smith,842 7th Blvd,Dallas,TX,75201,10/25/1982,Rented,+1-276-824-9640
+Jane Johnson,36 Maple St,San Antonio,TX,78201,9/24/1978,Owned,+1-489-100-231
+Karen Davis,800 2nd Dr,New York,NY,10001,3/22/1990,Rented,+1-797-573-1060
+David Garcia,595 8th Pl,San Diego,CA,92101,4/5/1974,Rented,+1-359-677-6903
+Michael Garcia,27 5th Ave,New York,NY,10001,7/18/1996,Owned,+1-848-113-1528
+Emily Garcia,886 8th Way,Houston,TX,77001,2/9/1963,Rented,+1-198-942-6780
+Karen Miller,570 2nd Dr,Philadelphia,PA,19101,3/3/1990,Owned,+1-683-924-7116
+Michael Rodriguez,710 8th Way,Philadelphia,PA,19101,9/3/1956,Owned,+1-918-496-5651
+Robert Brown,702 Cedar Pl,Los Angeles,CA,90001,4/23/1957,Owned,+1-294-686-3150
+Robert Brown,234 View St,Chicago,IL,60601,11/24/1991,Owned,+1-955-400-923
+Karen Brown,560 Oak Rd,San Diego,CA,92101,7/2/1957,Owned,+1-990-128-2867
+Sarah Davis,558 8th Ln,New York,NY,10001,4/28/1995,Rented,+1-684-711-1440
+Michael Miller,934 Hill Ln,Los Angeles,CA,90001,8/25/1950,Owned,+1-564-452-137
+Michael Johnson,889 2nd Ct,New York,NY,10001,1/3/1972,Owned,+1-433-776-6848
+Robert Johnson,253 7th Rd,New York,NY,10001,8/23/1995,Owned,+1-661-671-3587
+James Davis,69 Main St,Los Angeles,CA,90001,1/23/1954,Rented,+1-182-469-8551
+Sarah Miller,226 Hill Ct,Chicago,IL,60601,9/21/1974,Rented,+1-870-885-2968
+John Martinez,9 3rd Rd,New York,NY,10001,4/13/1963,Rented,+1-670-750-1496
+Emily Davis,179 1st Ct,San Jose,CA,95101,2/28/1959,Owned,+1-978-234-6559
+John Jones,72 Maple Pl,Philadelphia,PA,19101,6/10/1953,Owned,+1-539-809-9608
+James Rodriguez,674 Park Dr,Philadelphia,PA,19101,3/14/1959,Rented,+1-158-265-8914
+James Smith,972 6th St,New York,NY,10001,11/22/1952,Owned,+1-220-603-1385
+Sarah Martinez,619 Cedar Ave,Dallas,TX,75201,1/26/1956,Rented,+1-684-228-3895
+Jane Johnson,17 Main Dr,San Antonio,TX,78201,12/23/1963,Owned,+1-540-762-9086
+David Johnson,235 1st Ln,New York,NY,10001,10/13/1985,Rented,+1-659-272-7660
+Michael Miller,135 Lake St,Los Angeles,CA,90001,1/20/1962,Rented,+1-759-119-427
+Emily Davis,785 Maple Way,Los Angeles,CA,90001,6/14/1999,Rented,+1-134-581-5485
+John Jones,723 Sunset Rd,San Diego,CA,92101,7/10/1969,Rented,+1-233-405-6233
+Michael Johnson,869 7th Rd,Houston,TX,77001,1/4/1983,Rented,+1-360-257-9319
+Sarah Garcia,184 Oak Ct,San Jose,CA,95101,1/7/1971,Owned,+1-296-400-3583
+Robert Garcia,234 View Ln,Los Angeles,CA,90001,6/18/1965,Rented,+1-542-761-2611
+Jane Garcia,281 3rd Ct,San Diego,CA,92101,10/24/1952,Owned,+1-967-371-8093
+James Martinez,688 Pine Blvd,Houston,TX,77001,5/4/1956,Rented,+1-519-852-5326
+Jane Smith,19 2nd Pl,Philadelphia,PA,19101,5/2/1987,Rented,+1-134-736-2198
+Michael Brown,104 4th Pl,Chicago,IL,60601,1/8/1958,Rented,+1-704-441-9290
+Robert Rodriguez,285 2nd Ct,Phoenix,AZ,85001,11/14/1982,Owned,+1-930-762-8389
+Sarah Miller,103 4th Ln,San Antonio,TX,78201,6/8/1987,Owned,+1-653-889-2526
+Michael Brown,335 5th Ct,Chicago,IL,60601,12/19/1987,Rented,+1-706-234-9062
+David Johnson,229 Main St,Phoenix,AZ,85001,8/23/1966,Owned,+1-932-773-6918
+Jane Brown,645 Main Way,Phoenix,AZ,85001,6/19/1951,Rented,+1-690-145-7883
+Robert Martinez,308 8th St,Chicago,IL,60601,1/15/1959,Owned,+1-808-676-2303
+David Davis,771 3rd Blvd,New York,NY,10001,10/4/1950,Owned,+1-714-204-8582
+Jane Martinez,285 6th Pl,Los Angeles,CA,90001,5/9/1959,Rented,+1-193-173-1122
+Robert Brown,361 3rd Dr,Houston,TX,77001,7/5/1971,Rented,+1-873-373-2349
+Linda Davis,857 Cedar Way,San Jose,CA,95101,4/27/1966,Owned,+1-622-518-5958
+Robert Rodriguez,180 Cedar Ct,San Diego,CA,92101,10/4/1998,Owned,+1-722-210-5622
+James Martinez,254 Lake Ln,San Diego,CA,92101,12/17/1951,Rented,+1-819-447-9773
+Jane Miller,862 Elm Rd,Philadelphia,PA,19101,6/12/1974,Rented,+1-787-320-4001
+Sarah Johnson,123 Pine Pl,Chicago,IL,60601,10/17/1993,Owned,+1-788-975-5158
+David Johnson,322 Hill Ave,San Diego,CA,92101,1/21/1993,Owned,+1-596-474-4739
+Karen Smith,548 Oak Way,San Antonio,TX,78201,1/3/1958,Rented,+1-793-201-1278
+Karen Williams,429 Maple Rd,Phoenix,AZ,85001,3/27/1977,Rented,+1-916-329-9468
+Robert Rodriguez,9 2nd Ct,Philadelphia,PA,19101,4/16/1978,Rented,+1-349-371-345
+Sarah Brown,26 9th Ave,San Jose,CA,95101,12/19/1976,Rented,+1-427-181-305
+John Jones,898 3rd Pl,Phoenix,AZ,85001,2/24/1973,Rented,+1-340-821-7353
+David Davis,768 9th Ln,New York,NY,10001,5/6/1974,Rented,+1-691-504-1772
+John Williams,21 Pine Dr,Philadelphia,PA,19101,9/17/1959,Owned,+1-883-341-7502
+John Williams,624 Main Ln,San Diego,CA,92101,2/27/1995,Rented,+1-634-736-3178
+Sarah Rodriguez,702 1st Pl,Phoenix,AZ,85001,3/24/1966,Owned,+1-188-317-966
+Karen Brown,511 4th Ave,New York,NY,10001,5/11/1953,Owned,+1-552-337-9718
+David Jones,104 Elm St,Dallas,TX,75201,3/24/1985,Owned,+1-777-142-3121
+David Rodriguez,529 9th Ln,Phoenix,AZ,85001,1/17/1958,Rented,+1-723-687-6590
+Robert Jones,849 6th Way,Houston,TX,77001,1/14/1961,Rented,+1-912-798-6594
+David Brown,78 Cedar Ln,Philadelphia,PA,19101,3/25/1953,Owned,+1-932-813-3181
+Emily Williams,268 Cedar Ct,San Jose,CA,95101,3/12/1994,Owned,+1-647-365-6967
+John Johnson,210 7th St,San Antonio,TX,78201,12/21/1988,Rented,+1-991-639-8967
+Karen Rodriguez,270 2nd Ave,Philadelphia,PA,19101,11/12/1996,Rented,+1-515-950-2450
+David Williams,863 Lake Ct,Houston,TX,77001,10/22/1957,Rented,+1-818-692-4998
+Emily Garcia,345 6th Ln,San Jose,CA,95101,11/17/1955,Owned,+1-946-557-8886
+Sarah Rodriguez,862 6th Pl,Phoenix,AZ,85001,5/5/1957,Rented,+1-479-289-571
+Sarah Garcia,43 Maple Blvd,Chicago,IL,60601,1/11/1986,Rented,+1-917-353-9094
+David Jones,116 Hill Way,New York,NY,10001,9/14/1988,Rented,+1-899-936-6464
+Karen Johnson,634 3rd St,New York,NY,10001,6/5/1989,Rented,+1-741-314-8632
+John Martinez,651 3rd St,Philadelphia,PA,19101,1/13/1991,Owned,+1-419-156-5627
+Karen Brown,224 5th Dr,Houston,TX,77001,11/27/1979,Owned,+1-891-117-3987
+Linda Jones,567 7th Ln,San Diego,CA,92101,7/19/1951,Owned,+1-573-148-7279
+Robert Garcia,448 Park Dr,Phoenix,AZ,85001,6/16/1962,Rented,+1-860-337-1261
+John Davis,288 Pine Ave,Houston,TX,77001,9/25/1968,Owned,+1-367-800-4397
+Karen Garcia,750 Sunset Ct,Phoenix,AZ,85001,6/9/1951,Rented,+1-883-322-4930
+Michael Williams,503 Pine Ct,San Jose,CA,95101,9/7/1955,Owned,+1-950-303-5252
+Robert Rodriguez,213 1st Rd,Dallas,TX,75201,1/19/1974,Owned,+1-284-101-3210
+Karen Johnson,734 Hill Dr,San Jose,CA,95101,8/26/1978,Rented,+1-695-816-5037
+John Williams,95 Hill Pl,San Diego,CA,92101,1/9/1987,Rented,+1-100-295-3307
+David Martinez,680 4th Blvd,San Antonio,TX,78201,10/26/1983,Rented,+1-816-283-8502
+Emily Martinez,974 Hill Blvd,San Jose,CA,95101,5/20/1950,Rented,+1-386-845-4183
+John Rodriguez,137 8th Way,Dallas,TX,75201,3/12/1990,Rented,+1-905-739-575
+Michael Johnson,723 Pine Dr,Chicago,IL,60601,1/19/1959,Rented,+1-770-598-4764
+Robert Brown,82 Maple Blvd,San Antonio,TX,78201,9/10/1973,Owned,+1-281-849-2351
+Linda Johnson,831 Oak Ct,Los Angeles,CA,90001,12/6/1971,Rented,+1-265-945-7564
+David Garcia,852 Sunset Ave,Dallas,TX,75201,9/13/1980,Owned,+1-749-548-6979
+Emily Miller,804 7th Pl,New York,NY,10001,10/14/1974,Owned,+1-674-107-5700
+Karen Davis,392 Pine Pl,Chicago,IL,60601,12/5/1967,Rented,+1-728-917-539
+James Miller,217 Park Ave,Dallas,TX,75201,12/11/1963,Rented,+1-652-299-6865
+Sarah Garcia,373 5th Way,San Antonio,TX,78201,3/14/1976,Owned,+1-431-142-501
+Jane Rodriguez,656 9th Ct,San Antonio,TX,78201,12/4/1961,Rented,+1-798-432-9140
+David Williams,16 Sunset Blvd,Phoenix,AZ,85001,11/28/1994,Owned,+1-743-866-9470
+Linda Rodriguez,526 Pine Ave,Philadelphia,PA,19101,7/6/1979,Rented,+1-499-246-6372
+Michael Garcia,860 Sunset Rd,Chicago,IL,60601,10/24/1994,Rented,+1-121-874-550
+Jane Jones,74 Park Ct,San Diego,CA,92101,9/8/1978,Rented,+1-573-815-1478
+Karen Miller,116 Maple Ct,Houston,TX,77001,5/12/1995,Owned,+1-484-618-8959
+Robert Brown,467 Maple Dr,San Antonio,TX,78201,8/2/1977,Owned,+1-985-730-2331
+Emily Jones,239 Maple Way,Houston,TX,77001,12/8/1966,Rented,+1-863-887-1059
+James Rodriguez,984 2nd Ave,San Jose,CA,95101,10/3/1984,Owned,+1-104-857-8268
+Robert Davis,998 4th Blvd,Chicago,IL,60601,9/7/1996,Owned,+1-569-400-940
+David Williams,869 Park Rd,San Diego,CA,92101,4/4/1971,Owned,+1-766-351-7804
+James Jones,397 3rd Dr,San Antonio,TX,78201,7/3/1952,Owned,+1-107-356-8346
+David Smith,80 2nd Blvd,Philadelphia,PA,19101,8/2/1976,Rented,+1-675-461-5601
+James Miller,876 Hill Dr,Dallas,TX,75201,3/23/1954,Rented,+1-658-875-7007
+Linda Jones,605 Lake Blvd,New York,NY,10001,10/6/1965,Owned,+1-420-398-2473
+John Davis,321 4th Ave,Dallas,TX,75201,7/17/1987,Owned,+1-620-222-457
+Michael Rodriguez,964 4th Blvd,Houston,TX,77001,8/20/1950,Rented,+1-350-342-5696
+James Jones,911 Sunset Ave,Dallas,TX,75201,7/24/1991,Rented,+1-668-707-7169
+Jane Rodriguez,117 4th Ct,Dallas,TX,75201,3/7/1978,Owned,+1-677-619-2270
+Emily Johnson,73 6th Way,San Diego,CA,92101,5/26/1959,Owned,+1-825-244-6148
+David Miller,919 Hill Dr,Los Angeles,CA,90001,7/7/1959,Rented,+1-290-308-464
+Linda Miller,680 Oak Ct,San Diego,CA,92101,10/25/1964,Rented,+1-432-847-1340
+Karen Smith,343 9th Dr,Los Angeles,CA,90001,5/11/1950,Owned,+1-633-198-2566
+John Rodriguez,724 5th Ln,Chicago,IL,60601,2/4/1983,Rented,+1-765-233-3760
+Jane Garcia,286 Park Ave,Chicago,IL,60601,3/13/1974,Owned,+1-542-192-8497
+John Garcia,331 Lake St,Houston,TX,77001,11/14/1968,Rented,+1-555-330-4845
+Robert Martinez,949 Pine Rd,Phoenix,AZ,85001,8/6/1994,Rented,+1-132-161-1160
+Jane Williams,478 8th Rd,San Jose,CA,95101,3/5/1971,Owned,+1-639-608-8620
+Jane Martinez,839 Hill Dr,Philadelphia,PA,19101,8/1/1994,Rented,+1-826-720-6308
+Emily Miller,605 Oak Rd,Chicago,IL,60601,10/19/1986,Owned,+1-620-453-4084
+Michael Johnson,471 6th Ct,Phoenix,AZ,85001,12/24/1973,Rented,+1-448-527-6027
+John Garcia,334 9th Pl,Chicago,IL,60601,3/22/1982,Rented,+1-364-294-249
+David Smith,766 Pine Dr,San Diego,CA,92101,3/11/1979,Rented,+1-659-550-941
+Jane Brown,648 Cedar St,Dallas,TX,75201,6/18/1972,Rented,+1-617-456-5367
+James Jones,826 9th Pl,San Diego,CA,92101,8/26/1959,Owned,+1-726-572-2903
+Robert Martinez,255 2nd Ct,Houston,TX,77001,1/18/1989,Owned,+1-760-392-1029
+David Rodriguez,701 View Dr,San Diego,CA,92101,4/5/1995,Rented,+1-430-251-1939
+Emily Miller,951 1st Ct,Chicago,IL,60601,3/22/1984,Owned,+1-596-259-3682
+Karen Jones,545 2nd Way,Dallas,TX,75201,5/6/1952,Rented,+1-273-937-1366
+Linda Jones,510 Hill Blvd,Los Angeles,CA,90001,3/20/1957,Rented,+1-672-780-9051
+Sarah Smith,458 Park Pl,San Jose,CA,95101,7/19/1958,Rented,+1-650-857-465
+Sarah Jones,891 Sunset St,Chicago,IL,60601,2/6/1957,Rented,+1-824-429-4505
+Robert Rodriguez,722 Hill Way,Phoenix,AZ,85001,11/27/1992,Rented,+1-455-356-1676
+Robert Jones,902 Pine Blvd,Houston,TX,77001,2/7/1989,Rented,+1-316-909-6495
+Sarah Miller,375 View Ct,San Diego,CA,92101,3/4/1962,Owned,+1-320-580-3436
+Jane Davis,812 8th Ct,San Diego,CA,92101,8/23/1994,Owned,+1-300-982-7442
+Robert Brown,863 View Ave,Houston,TX,77001,12/8/1984,Rented,+1-448-643-8945
+Robert Jones,6 Main Ln,Dallas,TX,75201,6/11/1971,Owned,+1-550-870-9011
+Michael Miller,626 9th St,San Antonio,TX,78201,11/22/1958,Owned,+1-894-385-5538
+James Williams,146 9th Blvd,Phoenix,AZ,85001,4/22/1955,Rented,+1-561-134-6098
+Robert Miller,461 5th Ct,Chicago,IL,60601,10/23/1988,Owned,+1-129-303-943
+Linda Miller,532 Cedar St,Phoenix,AZ,85001,4/28/1967,Owned,+1-128-647-7989
+James Johnson,905 Cedar Ct,Chicago,IL,60601,11/10/1993,Owned,+1-845-408-9638
+Karen Smith,543 7th Ave,Chicago,IL,60601,1/17/1957,Owned,+1-837-874-9419
+Michael Miller,326 3rd Dr,Phoenix,AZ,85001,11/9/1957,Owned,+1-415-793-7243
+Jane Davis,811 1st Way,Philadelphia,PA,19101,1/6/1953,Rented,+1-962-550-9901
+Karen Davis,77 5th Blvd,Philadelphia,PA,19101,7/10/1970,Owned,+1-470-410-4791
+David Williams,575 2nd Dr,Chicago,IL,60601,9/25/1968,Rented,+1-193-519-1905
+Jane Jones,423 6th St,New York,NY,10001,5/15/1996,Owned,+1-331-284-5166
+James Davis,725 Cedar Way,Los Angeles,CA,90001,9/8/1982,Owned,+1-966-638-9076
+Linda Garcia,254 2nd Blvd,Philadelphia,PA,19101,3/12/1994,Rented,+1-990-928-1823
+John Williams,73 Sunset Pl,San Diego,CA,92101,5/20/1975,Rented,+1-727-317-68
+Michael Davis,544 Maple Ln,Dallas,TX,75201,7/11/1977,Rented,+1-144-258-8785
+David Brown,567 3rd Dr,Philadelphia,PA,19101,12/16/1985,Owned,+1-795-767-7534
+Robert Martinez,384 4th Dr,Houston,TX,77001,7/11/1973,Owned,+1-336-141-6488
+Michael Garcia,886 Lake Ct,Philadelphia,PA,19101,4/11/1995,Rented,+1-474-314-5678
+Karen Martinez,276 1st Pl,Los Angeles,CA,90001,11/9/1975,Rented,+1-652-607-8471
+James Johnson,989 4th Ln,Philadelphia,PA,19101,9/9/1950,Rented,+1-459-315-186
+James Jones,979 Pine Ct,Los Angeles,CA,90001,12/19/1976,Owned,+1-236-626-8177
+Karen Rodriguez,687 Lake Blvd,Philadelphia,PA,19101,1/7/1997,Owned,+1-592-233-5320
+Sarah Williams,691 5th Way,Philadelphia,PA,19101,8/11/1950,Owned,+1-507-210-9391
+James Smith,823 Cedar St,Philadelphia,PA,19101,3/1/1954,Owned,+1-726-269-6930
+Sarah Johnson,396 4th Blvd,Los Angeles,CA,90001,12/21/1981,Owned,+1-667-109-9695
+James Jones,541 6th Way,San Diego,CA,92101,9/2/1955,Rented,+1-800-187-32
+Karen Smith,593 6th St,New York,NY,10001,4/24/1952,Owned,+1-420-421-6862
+David Martinez,659 Cedar Ln,New York,NY,10001,4/12/1978,Rented,+1-420-695-610
+James Miller,375 5th Rd,Los Angeles,CA,90001,12/25/1953,Rented,+1-504-931-79
+Jane Jones,176 View Ct,Chicago,IL,60601,11/18/1961,Owned,+1-910-966-1007
+Jane Garcia,679 7th Rd,Houston,TX,77001,11/24/1968,Rented,+1-641-989-7141
+David Smith,761 Elm Rd,Dallas,TX,75201,6/8/1974,Owned,+1-639-863-1500
+Karen Smith,173 8th Way,Chicago,IL,60601,8/5/1990,Rented,+1-149-313-4660
+Robert Rodriguez,793 8th Ln,Philadelphia,PA,19101,12/24/1970,Rented,+1-815-635-8401
+Michael Smith,229 Maple St,Chicago,IL,60601,1/10/1995,Owned,+1-770-197-4755
+David Johnson,58 Sunset Dr,Houston,TX,77001,9/18/1971,Rented,+1-980-795-1686
+Emily Davis,348 Lake Pl,Los Angeles,CA,90001,2/8/1968,Rented,+1-812-513-2808
+James Davis,322 2nd Rd,Houston,TX,77001,9/4/1981,Rented,+1-303-467-3667
+Jane Smith,832 3rd Dr,New York,NY,10001,6/15/1971,Rented,+1-814-734-7275
+Sarah Martinez,995 1st Rd,Philadelphia,PA,19101,7/16/1950,Owned,+1-327-997-8259
+Michael Smith,295 View Ct,Houston,TX,77001,11/15/1951,Owned,+1-879-535-6905
+Sarah Martinez,965 View St,Philadelphia,PA,19101,2/5/1994,Owned,+1-177-852-5587
+Emily Smith,893 4th Rd,Dallas,TX,75201,10/1/1961,Rented,+1-852-232-6401
+Sarah Davis,371 Maple Ct,San Jose,CA,95101,1/24/1969,Owned,+1-102-716-1802
+David Martinez,301 Sunset Ave,Philadelphia,PA,19101,2/14/1950,Owned,+1-630-111-9690
+Robert Rodriguez,371 3rd St,Phoenix,AZ,85001,11/25/1956,Owned,+1-601-199-8141
+John Rodriguez,316 Park Ave,Los Angeles,CA,90001,12/12/1957,Owned,+1-408-223-2929
+Karen Brown,802 9th Dr,Phoenix,AZ,85001,8/7/1972,Rented,+1-165-296-9431
+Michael Johnson,834 Hill Ln,Los Angeles,CA,90001,5/25/1961,Owned,+1-698-920-8311
+James Smith,583 Park Way,San Diego,CA,92101,5/17/1982,Rented,+1-749-292-7050
+John Garcia,241 Pine Dr,San Antonio,TX,78201,7/19/1984,Owned,+1-582-510-1858
+Sarah Smith,197 Oak Ln,Phoenix,AZ,85001,5/21/1989,Rented,+1-608-201-7764
+Karen Rodriguez,709 3rd Rd,Philadelphia,PA,19101,12/17/1978,Rented,+1-163-169-6471
+Jane Jones,89 7th Pl,Los Angeles,CA,90001,2/16/1963,Rented,+1-342-276-3157
+Karen Rodriguez,768 Park Ave,New York,NY,10001,6/27/1972,Rented,+1-188-933-1855
+Robert Williams,211 9th Rd,Phoenix,AZ,85001,9/1/1979,Owned,+1-270-385-7775
+Robert Williams,336 Main Dr,Houston,TX,77001,9/24/1956,Owned,+1-206-589-2970
+David Williams,357 Elm St,Philadelphia,PA,19101,12/9/1978,Owned,+1-791-733-5050
+Linda Rodriguez,834 Pine Blvd,Phoenix,AZ,85001,10/24/1995,Owned,+1-803-248-6884
+Robert Rodriguez,622 Cedar Way,San Diego,CA,92101,3/22/1977,Rented,+1-496-150-7240
+John Jones,538 8th Dr,Philadelphia,PA,19101,7/10/1995,Rented,+1-259-117-8348
+David Martinez,220 Pine Ln,San Antonio,TX,78201,4/5/1962,Owned,+1-439-901-2684
+James Rodriguez,840 Pine Rd,San Diego,CA,92101,3/12/1965,Rented,+1-847-652-5766
+Linda Garcia,113 6th Ln,San Antonio,TX,78201,9/21/1971,Owned,+1-107-625-2625
+David Davis,665 Lake Blvd,Phoenix,AZ,85001,11/4/1986,Rented,+1-102-512-1174
+Robert Garcia,516 Main St,San Diego,CA,92101,4/21/1963,Rented,+1-501-953-1836
+Karen Davis,805 4th Dr,Philadelphia,PA,19101,12/7/1961,Rented,+1-335-639-5082
+John Davis,831 Pine St,Houston,TX,77001,3/6/1991,Owned,+1-773-559-1885
+Sarah Johnson,734 Lake Rd,San Jose,CA,95101,7/12/1966,Owned,+1-591-193-3730
+Michael Williams,675 6th Ct,Philadelphia,PA,19101,8/17/1967,Owned,+1-776-990-9858
+Linda Rodriguez,718 Cedar Way,Chicago,IL,60601,7/6/1995,Owned,+1-232-701-2146
+Emily Rodriguez,914 Hill Pl,Los Angeles,CA,90001,1/19/1989,Owned,+1-363-722-7334
+James Williams,808 Park Pl,Dallas,TX,75201,8/27/1977,Rented,+1-353-760-5382
+Robert Garcia,796 Elm Way,San Antonio,TX,78201,10/27/1972,Owned,+1-489-167-3306
+Sarah Brown,783 Cedar Dr,San Jose,CA,95101,1/17/1996,Owned,+1-413-367-3046
+Jane Johnson,620 5th Blvd,Dallas,TX,75201,7/8/1995,Owned,+1-329-296-1288
+Jane Williams,973 Oak Dr,San Antonio,TX,78201,5/14/1960,Rented,+1-735-962-1928
+David Brown,916 2nd Blvd,Phoenix,AZ,85001,8/10/1951,Owned,+1-647-212-1387
+Sarah Johnson,297 9th Pl,Houston,TX,77001,1/18/1975,Owned,+1-978-248-104
+James Garcia,57 8th Dr,Phoenix,AZ,85001,9/13/1985,Owned,+1-154-355-6761
+Emily Smith,773 Main Rd,Houston,TX,77001,2/5/1971,Owned,+1-238-175-8912
+Emily Brown,979 4th Ave,San Antonio,TX,78201,3/6/1995,Owned,+1-189-793-7700
+Sarah Smith,905 View Rd,Philadelphia,PA,19101,2/19/1998,Owned,+1-400-872-9429
+David Miller,538 6th Way,New York,NY,10001,4/12/1976,Rented,+1-410-228-685
+Karen Johnson,707 1st St,Houston,TX,77001,6/2/1990,Rented,+1-832-653-5686
+John Brown,339 1st Ave,Phoenix,AZ,85001,12/21/1983,Owned,+1-750-582-3365
+Linda Rodriguez,29 Pine Blvd,Philadelphia,PA,19101,11/11/1982,Rented,+1-951-790-4483
+Jane Miller,251 5th St,Philadelphia,PA,19101,8/25/1953,Rented,+1-780-217-6862
+John Davis,636 Elm Ave,Los Angeles,CA,90001,9/20/1993,Owned,+1-413-830-1143
+Emily Brown,604 Lake Ave,Phoenix,AZ,85001,6/8/1993,Owned,+1-541-335-9518
+Emily Garcia,556 Cedar Way,San Diego,CA,92101,8/7/1952,Rented,+1-804-830-261
+Linda Jones,157 3rd Ln,Chicago,IL,60601,8/3/1978,Rented,+1-507-256-8865
+Sarah Rodriguez,411 4th Ln,San Diego,CA,92101,6/20/1991,Rented,+1-922-416-7819
+John Davis,529 View Ln,Philadelphia,PA,19101,9/18/1965,Rented,+1-895-839-6556
+Emily Williams,456 Sunset Way,New York,NY,10001,10/2/1973,Owned,+1-105-165-7683
+Linda Jones,655 2nd Rd,Dallas,TX,75201,4/26/1998,Rented,+1-133-358-7315
+John Miller,946 Hill Ave,San Diego,CA,92101,11/8/1961,Owned,+1-392-254-7361
+David Johnson,127 6th Ln,Phoenix,AZ,85001,9/27/1997,Rented,+1-124-689-2954
+Robert Rodriguez,506 Lake St,Philadelphia,PA,19101,3/7/1986,Rented,+1-659-338-4100
+Linda Jones,190 8th Rd,Dallas,TX,75201,10/22/1980,Owned,+1-350-178-5088
+Sarah Miller,788 7th Ct,San Antonio,TX,78201,8/3/1955,Owned,+1-104-891-8325
+James Brown,763 1st Way,New York,NY,10001,1/7/1985,Rented,+1-398-305-3828
+Michael Jones,834 Oak Pl,Phoenix,AZ,85001,12/7/1978,Rented,+1-845-182-5668
+James Davis,160 8th Way,San Diego,CA,92101,3/7/1967,Owned,+1-199-223-3753
+John Rodriguez,905 9th Way,Phoenix,AZ,85001,5/7/1964,Owned,+1-213-359-9662
+John Rodriguez,302 8th Ct,Dallas,TX,75201,2/28/1950,Rented,+1-858-542-6912
+John Garcia,925 Hill Dr,Philadelphia,PA,19101,8/17/1960,Owned,+1-966-914-5080
+Karen Jones,767 3rd Rd,Dallas,TX,75201,12/26/1971,Owned,+1-960-202-4780
+James Rodriguez,138 View Rd,Houston,TX,77001,10/1/1968,Rented,+1-701-453-9954
+James Rodriguez,788 7th Blvd,Chicago,IL,60601,4/22/1994,Owned,+1-365-520-5530
+Karen Jones,698 4th Dr,Chicago,IL,60601,4/22/1999,Owned,+1-977-676-8514
+David Martinez,604 Pine Pl,Houston,TX,77001,6/20/1969,Owned,+1-772-160-345
+James Miller,724 Oak Pl,Philadelphia,PA,19101,11/28/1963,Owned,+1-786-147-6154
+David Martinez,964 1st Ave,Philadelphia,PA,19101,3/12/1992,Owned,+1-564-158-3507
+Jane Jones,683 Hill Ave,San Antonio,TX,78201,11/28/1970,Owned,+1-751-992-4936
+Jane Garcia,331 8th Ln,Dallas,TX,75201,9/6/1993,Rented,+1-235-868-7994
+Sarah Garcia,119 Sunset Ave,Philadelphia,PA,19101,10/28/1980,Rented,+1-826-985-1676
+Emily Miller,372 Sunset Ave,Houston,TX,77001,7/22/1964,Rented,+1-669-685-7938
+Karen Jones,613 Elm Ct,Chicago,IL,60601,11/25/1971,Rented,+1-106-110-7976
+Emily Davis,406 5th Ln,Philadelphia,PA,19101,11/7/1988,Owned,+1-964-995-5520
+Jane Garcia,343 Hill Blvd,New York,NY,10001,5/2/1976,Rented,+1-260-388-2013
+Michael Miller,640 Elm Pl,Dallas,TX,75201,3/7/1972,Rented,+1-927-254-94
+Sarah Martinez,864 Main Blvd,Phoenix,AZ,85001,6/5/1972,Rented,+1-286-798-5163
+Karen Davis,936 1st Ave,Houston,TX,77001,9/2/1978,Rented,+1-350-304-7435
+Jane Smith,992 Cedar Way,Houston,TX,77001,12/23/1985,Rented,+1-986-936-190
+John Johnson,986 Elm Ave,San Antonio,TX,78201,9/23/1954,Rented,+1-198-349-7841
+David Davis,439 Oak St,Dallas,TX,75201,4/2/1960,Rented,+1-971-193-4856
+Sarah Williams,637 Pine Pl,San Antonio,TX,78201,2/19/1959,Owned,+1-810-513-8459
+Michael Jones,355 Sunset Blvd,Dallas,TX,75201,6/3/1980,Rented,+1-171-174-604
+Karen Martinez,231 3rd Rd,Los Angeles,CA,90001,3/8/1983,Owned,+1-480-686-9934
+Karen Martinez,162 Pine St,Los Angeles,CA,90001,3/16/1991,Owned,+1-171-276-2981
+John Martinez,268 3rd Way,Los Angeles,CA,90001,1/3/1957,Rented,+1-150-990-4907
+Robert Davis,263 Main Pl,San Diego,CA,92101,7/10/1972,Owned,+1-781-187-223
+Michael Davis,172 Elm Dr,Los Angeles,CA,90001,9/25/1955,Owned,+1-200-571-3759
+Michael Jones,647 4th Pl,San Diego,CA,92101,1/21/1983,Owned,+1-924-331-6883
+James Brown,747 8th Blvd,San Diego,CA,92101,2/18/1959,Rented,+1-736-332-8829
+Michael Miller,732 9th Blvd,Philadelphia,PA,19101,11/25/1974,Rented,+1-332-322-4351
+Robert Williams,477 Lake Way,Houston,TX,77001,7/28/1977,Owned,+1-553-423-702
+Michael Miller,834 Hill Way,Dallas,TX,75201,5/6/1957,Rented,+1-561-225-5893
+Robert Brown,295 Maple Ct,Chicago,IL,60601,3/9/1989,Owned,+1-845-659-6295
+David Smith,816 Main Ave,San Diego,CA,92101,5/14/1991,Rented,+1-948-159-522
+Jane Brown,323 Sunset Way,Houston,TX,77001,7/7/1955,Rented,+1-105-719-9587
+Emily Johnson,358 1st St,Phoenix,AZ,85001,12/11/1952,Rented,+1-759-844-692
+David Jones,327 7th Ln,Philadelphia,PA,19101,10/11/1972,Rented,+1-282-687-5297
+James Davis,186 Cedar Ct,New York,NY,10001,4/27/1975,Rented,+1-332-515-103
+Robert Johnson,141 7th Pl,New York,NY,10001,9/5/1993,Owned,+1-938-966-5513
+James Garcia,380 Oak Dr,San Jose,CA,95101,2/25/1971,Owned,+1-339-268-2076
+Sarah Johnson,911 4th Dr,San Jose,CA,95101,12/28/1966,Owned,+1-934-500-2435
+Karen Garcia,499 7th Dr,Chicago,IL,60601,7/16/1966,Rented,+1-214-549-2881
+Linda Jones,4 4th Rd,Houston,TX,77001,9/6/1968,Rented,+1-872-691-6763
+Michael Williams,583 Pine St,New York,NY,10001,5/25/1963,Rented,+1-511-927-5846
+Emily Jones,485 Hill Way,Dallas,TX,75201,1/18/1998,Rented,+1-766-260-2023
+Karen Johnson,663 5th Pl,Chicago,IL,60601,7/13/1982,Owned,+1-244-330-3093
+John Rodriguez,892 Pine Way,San Antonio,TX,78201,1/10/1962,Rented,+1-533-664-9269
+Linda Rodriguez,296 7th Ave,Dallas,TX,75201,4/3/1972,Rented,+1-968-978-6306
+Sarah Garcia,462 2nd Ln,Dallas,TX,75201,5/27/1982,Rented,+1-394-127-9111
+James Rodriguez,161 3rd St,Los Angeles,CA,90001,12/13/1995,Rented,+1-887-766-2740
+Karen Williams,212 2nd Pl,Philadelphia,PA,19101,2/4/1972,Owned,+1-650-811-3116
+Michael Martinez,34 4th Ln,San Diego,CA,92101,9/11/1999,Owned,+1-734-222-61
+David Martinez,999 Pine Rd,Phoenix,AZ,85001,10/5/1989,Owned,+1-311-122-3995
+Michael Smith,361 8th Ave,San Diego,CA,92101,7/13/1997,Rented,+1-341-842-9488
+Sarah Smith,544 8th Dr,Phoenix,AZ,85001,6/6/1983,Owned,+1-303-861-5806
+Linda Garcia,74 Lake Dr,Chicago,IL,60601,1/6/1957,Owned,+1-413-745-1226
+Karen Garcia,686 6th Way,Chicago,IL,60601,6/15/1997,Owned,+1-212-514-8840
+Karen Brown,815 Park Pl,San Diego,CA,92101,3/9/1975,Rented,+1-644-574-2629
+Emily Williams,463 Pine Pl,Dallas,TX,75201,1/6/1957,Owned,+1-611-458-1354
+Linda Jones,636 Main St,Los Angeles,CA,90001,5/4/1988,Rented,+1-171-251-6568
+David Martinez,600 2nd Pl,Houston,TX,77001,11/21/1975,Rented,+1-804-784-5590
+David Johnson,135 Cedar St,New York,NY,10001,12/12/1976,Rented,+1-620-632-4809
+Jane Jones,348 5th Blvd,Philadelphia,PA,19101,9/13/1954,Rented,+1-714-579-9432
+David Garcia,385 Lake Pl,Houston,TX,77001,6/28/1983,Owned,+1-234-436-308
+John Williams,425 2nd Pl,San Diego,CA,92101,10/18/1970,Rented,+1-714-449-8547
+Michael Miller,380 6th Dr,New York,NY,10001,3/24/1989,Rented,+1-145-568-9112
+Robert Brown,874 1st Ct,Phoenix,AZ,85001,2/22/1978,Rented,+1-898-426-8793
+David Jones,797 5th Pl,San Jose,CA,95101,8/7/1966,Rented,+1-580-253-6867
+Michael Davis,692 9th Pl,New York,NY,10001,8/2/1967,Owned,+1-197-366-2001
+Karen Brown,132 Lake Ln,Phoenix,AZ,85001,2/25/1952,Owned,+1-975-395-5241
+Jane Miller,783 Cedar Ct,Los Angeles,CA,90001,5/4/1956,Owned,+1-968-842-9626
+Linda Rodriguez,486 Oak Way,San Antonio,TX,78201,2/25/1997,Owned,+1-111-303-6061
+Robert Brown,63 4th Ln,Philadelphia,PA,19101,4/13/1983,Owned,+1-486-481-5991
+Sarah Smith,498 3rd Dr,Chicago,IL,60601,7/24/1989,Rented,+1-403-495-9793
+Sarah Davis,641 Main Pl,Phoenix,AZ,85001,2/27/1950,Owned,+1-583-426-5623
+Michael Rodriguez,241 4th Ave,San Diego,CA,92101,4/21/1972,Rented,+1-858-703-6329
+John Jones,303 5th Ave,Dallas,TX,75201,11/7/1997,Owned,+1-913-817-6684
+David Johnson,777 View St,Philadelphia,PA,19101,8/1/1993,Rented,+1-453-800-569
+Jane Brown,908 8th Dr,Houston,TX,77001,12/24/1957,Owned,+1-225-204-8322
+James Brown,414 Park St,Dallas,TX,75201,12/7/1956,Owned,+1-182-355-8426
+James Smith,201 7th Way,San Diego,CA,92101,5/21/1987,Rented,+1-307-511-2300
+David Garcia,95 Lake Rd,Phoenix,AZ,85001,2/2/1982,Rented,+1-696-684-8324
+Linda Garcia,679 Cedar St,Philadelphia,PA,19101,3/5/1992,Owned,+1-298-223-4411
+Robert Brown,623 Sunset Way,San Antonio,TX,78201,9/11/1989,Rented,+1-929-475-5102
+Robert Davis,403 4th Way,Houston,TX,77001,5/15/1982,Rented,+1-218-738-3336
+John Johnson,964 View Ln,San Antonio,TX,78201,2/24/1979,Owned,+1-297-360-3755
+Michael Jones,124 Pine Pl,Philadelphia,PA,19101,3/18/1960,Rented,+1-604-571-1937
+Michael Rodriguez,294 Elm Rd,Phoenix,AZ,85001,3/26/1980,Owned,+1-338-293-4324
+Karen Williams,137 7th Ct,San Antonio,TX,78201,5/24/1952,Rented,+1-710-260-515
+Michael Martinez,520 1st Ave,Houston,TX,77001,12/1/1981,Rented,+1-412-167-3923
+David Jones,232 7th Rd,Chicago,IL,60601,11/21/1954,Owned,+1-927-481-6615
+John Brown,27 7th Way,Los Angeles,CA,90001,7/13/1985,Rented,+1-370-457-9549
+James Rodriguez,985 View Ln,Phoenix,AZ,85001,5/10/1984,Rented,+1-885-336-7140
+John Garcia,925 4th Pl,San Antonio,TX,78201,8/14/1972,Owned,+1-173-900-4173
+Jane Davis,866 8th Way,San Antonio,TX,78201,6/12/1974,Rented,+1-469-352-618
+Emily Smith,25 Oak Rd,Houston,TX,77001,1/18/1998,Owned,+1-769-897-1998
+Jane Williams,232 Lake Ct,San Antonio,TX,78201,12/16/1986,Rented,+1-444-920-6704
+James Garcia,282 3rd Blvd,Phoenix,AZ,85001,7/10/1998,Owned,+1-836-673-9940
+Michael Smith,1000 Pine Ave,Philadelphia,PA,19101,5/22/1960,Rented,+1-539-872-1764
+Robert Williams,624 Hill Way,San Jose,CA,95101,7/25/1972,Rented,+1-161-495-8644
+David Rodriguez,179 5th Ave,Houston,TX,77001,8/13/1979,Owned,+1-686-515-6604
+Linda Davis,697 5th Pl,San Antonio,TX,78201,6/15/1982,Owned,+1-393-252-3927
+Michael Rodriguez,919 View Way,Philadelphia,PA,19101,4/6/1986,Owned,+1-353-613-5644
+Michael Brown,569 8th Dr,Philadelphia,PA,19101,9/12/1954,Owned,+1-776-729-7926
+John Brown,987 1st Rd,San Jose,CA,95101,12/5/1954,Rented,+1-653-366-9985
+Linda Davis,516 1st Blvd,San Antonio,TX,78201,11/16/1989,Owned,+1-218-182-446
+Michael Jones,59 View Dr,Dallas,TX,75201,7/10/1988,Owned,+1-740-133-7901
+Jane Miller,920 Cedar Pl,Los Angeles,CA,90001,7/10/1966,Owned,+1-975-262-1624
+Linda Johnson,725 Sunset Ln,Phoenix,AZ,85001,5/24/1952,Owned,+1-421-785-4817
+James Smith,93 Lake Ave,Phoenix,AZ,85001,6/9/1988,Rented,+1-971-665-875
+David Miller,849 Cedar Ct,Los Angeles,CA,90001,12/2/1978,Owned,+1-954-295-8040
+Jane Garcia,836 Main Ln,Philadelphia,PA,19101,6/26/1985,Rented,+1-261-858-8539
+John Smith,749 Elm Way,Dallas,TX,75201,12/2/1969,Owned,+1-538-601-4726
+Robert Garcia,532 8th Ave,San Antonio,TX,78201,12/6/1978,Rented,+1-950-747-1332
+Michael Johnson,460 Cedar Ave,San Diego,CA,92101,8/20/1998,Rented,+1-658-126-6059
+David Johnson,683 Main Way,San Jose,CA,95101,3/27/1996,Rented,+1-193-204-7922
+Robert Rodriguez,648 4th Dr,Phoenix,AZ,85001,10/14/1977,Rented,+1-374-786-4883
+John Martinez,11 Hill Pl,Philadelphia,PA,19101,5/5/1987,Owned,+1-343-570-1887
+John Rodriguez,986 8th Ln,Chicago,IL,60601,8/21/1961,Rented,+1-523-860-9981
+Jane Brown,240 View Ln,Phoenix,AZ,85001,10/12/1974,Owned,+1-378-122-7311
+James Smith,389 Main Way,Philadelphia,PA,19101,8/5/1975,Owned,+1-224-414-2553
+David Williams,506 Main Ave,Chicago,IL,60601,11/19/1973,Rented,+1-684-684-4971
+Robert Smith,392 7th Ln,San Antonio,TX,78201,7/21/1981,Rented,+1-365-423-3942
+Michael Brown,996 1st Pl,Dallas,TX,75201,7/27/1981,Rented,+1-755-162-3711
+Karen Brown,504 Hill Ave,San Jose,CA,95101,1/27/1955,Rented,+1-268-501-7195
+Robert Brown,752 Oak Blvd,Phoenix,AZ,85001,3/8/1997,Owned,+1-603-732-4463
+Karen Williams,576 5th Pl,New York,NY,10001,11/9/1999,Rented,+1-841-131-9763
+James Johnson,969 Cedar Ave,Phoenix,AZ,85001,4/15/1970,Rented,+1-546-498-3767
+Michael Rodriguez,8 5th Pl,New York,NY,10001,5/2/1957,Owned,+1-618-643-2779
+Linda Jones,683 Lake Ln,Phoenix,AZ,85001,12/9/1987,Rented,+1-908-197-6319
+Karen Brown,700 1st St,Los Angeles,CA,90001,3/12/1979,Rented,+1-298-499-3923
+David Martinez,137 Cedar Way,Philadelphia,PA,19101,12/10/1985,Rented,+1-171-142-8139
+Michael Johnson,747 Elm Way,Chicago,IL,60601,11/22/1992,Owned,+1-917-424-1095
+Jane Miller,587 Elm Blvd,Dallas,TX,75201,10/4/1952,Owned,+1-925-962-2079
+James Garcia,639 Lake Dr,Houston,TX,77001,1/12/1994,Rented,+1-325-942-2249
+John Smith,199 2nd Way,San Diego,CA,92101,1/27/1963,Owned,+1-516-170-8721
+James Garcia,426 Park Pl,Chicago,IL,60601,8/20/1966,Owned,+1-327-873-3364
+Karen Brown,923 Lake St,San Diego,CA,92101,8/17/1976,Owned,+1-953-669-9078
+Linda Brown,809 Park Ln,Phoenix,AZ,85001,3/24/1972,Rented,+1-194-368-1445
+Michael Jones,585 Sunset Ave,Dallas,TX,75201,5/19/1973,Rented,+1-630-825-1710
+Sarah Garcia,133 5th Ct,New York,NY,10001,11/17/1951,Rented,+1-904-107-5478
+David Miller,335 Elm Ct,San Diego,CA,92101,5/13/1965,Rented,+1-105-537-273
+David Smith,427 9th Dr,San Diego,CA,92101,1/5/1998,Rented,+1-946-681-7696
+Sarah Jones,801 Hill Ave,Chicago,IL,60601,2/7/1979,Rented,+1-266-143-4428
+Jane Garcia,387 2nd Ave,San Diego,CA,92101,8/23/1998,Rented,+1-416-282-6859
+Emily Jones,913 Main Ct,New York,NY,10001,10/2/1956,Owned,+1-814-711-9978
+Sarah Smith,398 Main St,Chicago,IL,60601,7/19/1965,Rented,+1-549-647-3008
+Jane Williams,340 3rd Dr,Los Angeles,CA,90001,8/12/1973,Rented,+1-859-236-3256
+James Rodriguez,762 1st Rd,San Diego,CA,92101,8/24/1983,Owned,+1-986-204-2163
+Karen Jones,921 Cedar Blvd,Los Angeles,CA,90001,3/5/1978,Rented,+1-607-927-5976
+Robert Rodriguez,881 Oak Ct,Los Angeles,CA,90001,10/10/1958,Owned,+1-686-333-3234
+Jane Brown,862 Lake Blvd,San Jose,CA,95101,8/18/1960,Rented,+1-909-195-604
+David Smith,809 Pine Blvd,Dallas,TX,75201,2/28/1999,Rented,+1-836-185-9167
+Robert Williams,153 Hill Pl,Dallas,TX,75201,10/10/1988,Rented,+1-591-664-4157
+James Martinez,783 Lake Pl,Phoenix,AZ,85001,10/11/1991,Rented,+1-272-802-9562
+John Jones,101 View Ave,San Diego,CA,92101,3/7/1969,Owned,+1-782-121-1207
+Michael Johnson,235 9th Blvd,Chicago,IL,60601,4/2/1979,Rented,+1-295-742-9492
+David Miller,496 2nd Way,Phoenix,AZ,85001,3/13/1990,Owned,+1-299-868-5344
+David Miller,344 Oak Rd,Philadelphia,PA,19101,7/2/1967,Rented,+1-113-302-6482
+James Garcia,332 Lake St,Phoenix,AZ,85001,8/23/1953,Owned,+1-886-600-1934
+John Johnson,202 Park Ln,Philadelphia,PA,19101,8/28/1969,Owned,+1-451-502-2301
+Robert Williams,684 Cedar Pl,Los Angeles,CA,90001,6/6/1973,Owned,+1-462-981-2039
+Robert Martinez,334 6th Ct,Los Angeles,CA,90001,8/15/1980,Rented,+1-320-302-5897
+Emily Rodriguez,173 7th Pl,Dallas,TX,75201,3/5/1979,Rented,+1-134-501-8415
+Karen Williams,318 8th Ln,Phoenix,AZ,85001,11/22/1962,Owned,+1-478-214-3168
+Sarah Martinez,102 Main Rd,San Diego,CA,92101,7/14/1995,Rented,+1-194-171-8644
+Emily Miller,612 Park Ave,Philadelphia,PA,19101,3/3/1989,Rented,+1-230-351-3233
+James Garcia,819 7th Ln,Dallas,TX,75201,2/6/1986,Rented,+1-740-239-7536
+Linda Rodriguez,375 4th Way,San Diego,CA,92101,3/15/1960,Owned,+1-761-730-3164
+Robert Davis,887 4th Ave,Houston,TX,77001,8/10/1965,Rented,+1-150-990-7920
+John Brown,239 5th Ct,Phoenix,AZ,85001,6/9/1978,Owned,+1-478-515-2651
+Emily Miller,181 4th Dr,New York,NY,10001,7/22/1984,Rented,+1-819-196-9133
+Linda Miller,298 1st Pl,San Diego,CA,92101,11/22/1994,Owned,+1-720-606-5347
+John Johnson,352 Sunset Rd,Los Angeles,CA,90001,2/24/1954,Owned,+1-282-529-7751
+Linda Davis,843 Park Blvd,Houston,TX,77001,6/10/1955,Rented,+1-642-456-8030
+Emily Johnson,56 Cedar St,San Antonio,TX,78201,12/11/1968,Rented,+1-478-138-6850
+Robert Smith,800 Sunset St,San Diego,CA,92101,6/15/1961,Rented,+1-772-771-7681
+Robert Jones,305 5th St,Phoenix,AZ,85001,4/19/1980,Rented,+1-636-403-9120
+David Martinez,128 8th Ln,Chicago,IL,60601,6/14/1959,Rented,+1-174-326-9474
+James Williams,193 Maple Blvd,Dallas,TX,75201,7/1/1952,Rented,+1-519-295-9049
+Sarah Brown,464 5th Pl,Phoenix,AZ,85001,5/17/1966,Owned,+1-667-849-7610
+Robert Williams,719 View Rd,Houston,TX,77001,4/4/1960,Rented,+1-833-357-3030
+Linda Brown,321 Lake Rd,Philadelphia,PA,19101,2/27/1955,Owned,+1-592-643-2272
+James Williams,681 1st Blvd,Chicago,IL,60601,7/28/1982,Rented,+1-382-170-7511
+John Garcia,695 Pine Dr,Dallas,TX,75201,2/18/1956,Owned,+1-429-895-8433
+Sarah Brown,930 Pine Ave,San Diego,CA,92101,10/14/1980,Owned,+1-458-486-2782
+Sarah Jones,127 Cedar Pl,Chicago,IL,60601,1/5/1989,Rented,+1-195-920-2777
+Karen Miller,830 Pine Dr,San Jose,CA,95101,6/15/1973,Rented,+1-190-606-402
+Sarah Williams,980 Cedar Ct,New York,NY,10001,11/5/1997,Owned,+1-535-504-6377
+Robert Davis,472 Hill Pl,San Antonio,TX,78201,3/26/1967,Rented,+1-354-198-7972
+Jane Miller,845 Maple Ln,San Diego,CA,92101,4/1/1981,Rented,+1-314-162-8172
+Emily Jones,546 7th Way,Philadelphia,PA,19101,11/10/1975,Owned,+1-885-864-2036
+James Smith,74 Oak Ave,Philadelphia,PA,19101,8/15/1968,Rented,+1-839-276-4356
+Robert Rodriguez,548 Oak Ln,Houston,TX,77001,10/1/1979,Owned,+1-550-444-1584
+Michael Davis,548 Elm Blvd,Los Angeles,CA,90001,5/13/1962,Rented,+1-647-726-5451
+Linda Davis,696 5th Ave,Phoenix,AZ,85001,6/1/1955,Rented,+1-155-369-3276
+James Johnson,293 Park Ct,Philadelphia,PA,19101,4/20/1951,Rented,+1-130-821-238
+Sarah Williams,184 Hill Rd,Houston,TX,77001,5/13/1965,Owned,+1-981-663-1036
+Linda Garcia,132 Lake Dr,Houston,TX,77001,4/3/1958,Owned,+1-280-297-3997
+Michael Jones,717 9th Ave,San Diego,CA,92101,9/16/1996,Rented,+1-287-712-8453
+Robert Davis,284 7th Ave,San Diego,CA,92101,9/2/1994,Owned,+1-624-230-3170
+Jane Brown,703 Sunset St,San Diego,CA,92101,2/22/1972,Rented,+1-732-970-4486
+Linda Martinez,922 Sunset Ave,San Antonio,TX,78201,8/2/1966,Owned,+1-441-419-5521
+Sarah Martinez,59 Hill Ln,Phoenix,AZ,85001,9/15/1957,Rented,+1-352-409-7864
+David Jones,676 Cedar Dr,New York,NY,10001,7/19/1999,Rented,+1-153-974-3849
+Emily Rodriguez,829 Main Ln,Chicago,IL,60601,3/1/1958,Rented,+1-823-436-582
+Michael Martinez,211 Maple Ct,Houston,TX,77001,4/27/1996,Rented,+1-214-156-2154
+James Williams,862 Hill Ct,Houston,TX,77001,3/12/1987,Rented,+1-536-391-6877
+Robert Miller,298 Oak Ct,Phoenix,AZ,85001,6/21/1954,Owned,+1-798-139-151
+James Garcia,131 9th Pl,Los Angeles,CA,90001,4/16/1994,Rented,+1-765-482-2418
+James Garcia,266 Cedar Pl,New York,NY,10001,9/18/1962,Rented,+1-563-706-7792
+Michael Martinez,460 7th Ln,New York,NY,10001,1/22/1991,Owned,+1-765-116-9891
+Emily Williams,479 4th Pl,Dallas,TX,75201,6/18/1975,Rented,+1-253-793-1523
+Karen Smith,872 Pine Blvd,Houston,TX,77001,5/26/1968,Rented,+1-924-440-8626
+Karen Jones,608 View Blvd,Dallas,TX,75201,2/15/1988,Owned,+1-189-620-9314
+Robert Garcia,332 1st Way,Dallas,TX,75201,5/1/1997,Rented,+1-940-154-271
+John Johnson,561 7th Way,San Diego,CA,92101,8/19/1951,Owned,+1-722-204-6632
+John Rodriguez,43 View Way,San Diego,CA,92101,2/8/1963,Rented,+1-535-179-5963
+Jane Martinez,421 Maple Way,Chicago,IL,60601,6/19/1962,Owned,+1-754-712-1327
+Michael Smith,665 Cedar Way,Dallas,TX,75201,7/12/1992,Rented,+1-563-806-8830
+David Williams,769 1st Rd,Houston,TX,77001,7/20/1997,Rented,+1-545-417-7667
+Emily Johnson,595 Elm Ave,Chicago,IL,60601,10/5/1962,Owned,+1-666-245-6669
+Emily Johnson,970 Lake Dr,Phoenix,AZ,85001,12/17/1981,Rented,+1-179-253-6654
+Linda Davis,938 Lake Rd,New York,NY,10001,1/5/1968,Owned,+1-270-524-83
+John Rodriguez,876 Hill Dr,Philadelphia,PA,19101,5/15/1995,Owned,+1-160-726-4551
+David Martinez,577 5th Ln,Phoenix,AZ,85001,7/4/1965,Rented,+1-228-208-9467
+Karen Brown,650 4th St,Los Angeles,CA,90001,1/21/1984,Rented,+1-522-938-6573
+Michael Garcia,926 Sunset Pl,Phoenix,AZ,85001,5/15/1997,Rented,+1-893-740-5470
+David Martinez,753 3rd Way,Houston,TX,77001,4/2/1976,Owned,+1-117-790-5774
+Robert Smith,323 Maple Ave,Dallas,TX,75201,10/5/1965,Rented,+1-106-743-8
+Karen Brown,770 1st Ct,Dallas,TX,75201,5/1/1974,Rented,+1-239-224-8332
+David Davis,260 5th Way,San Jose,CA,95101,6/8/1964,Rented,+1-739-397-7057
+Linda Garcia,838 6th St,Philadelphia,PA,19101,5/23/1959,Rented,+1-803-939-1945
+James Miller,829 4th Ct,Houston,TX,77001,4/4/1993,Rented,+1-497-808-3615
+Robert Rodriguez,128 Maple Ln,San Jose,CA,95101,6/17/1985,Owned,+1-699-127-2369
+Jane Brown,20 Sunset Pl,Philadelphia,PA,19101,7/7/1950,Owned,+1-440-463-4052
+David Garcia,355 Oak St,San Diego,CA,92101,9/22/1977,Owned,+1-857-172-4778
+Robert Martinez,877 1st Blvd,San Diego,CA,92101,12/9/1963,Rented,+1-513-514-5543
+Karen Davis,621 3rd Ave,Houston,TX,77001,2/4/1961,Rented,+1-165-426-5450
+Linda Williams,198 8th Rd,Phoenix,AZ,85001,11/4/1973,Owned,+1-171-713-3243
+Sarah Miller,854 Main Rd,San Antonio,TX,78201,11/5/1976,Rented,+1-438-196-4362
+Linda Rodriguez,216 3rd Pl,Chicago,IL,60601,1/27/1951,Rented,+1-734-924-7680
+Karen Miller,47 Maple Ave,Los Angeles,CA,90001,8/27/1964,Rented,+1-816-672-5851
+Linda Smith,338 6th Rd,Phoenix,AZ,85001,12/6/1978,Rented,+1-863-166-3634
+David Brown,636 Oak St,Los Angeles,CA,90001,7/4/1965,Rented,+1-906-667-8541
+Karen Jones,654 Elm Ct,Los Angeles,CA,90001,6/27/1954,Owned,+1-385-814-9453
+John Garcia,719 7th Dr,Los Angeles,CA,90001,7/6/1959,Owned,+1-553-122-5569
+David Smith,107 Lake Way,Houston,TX,77001,8/3/1982,Rented,+1-963-668-7444
+James Johnson,414 Lake Ln,San Jose,CA,95101,3/4/1969,Owned,+1-334-426-4528
+Emily Johnson,199 Hill St,Chicago,IL,60601,11/17/1998,Rented,+1-304-320-5529
+Karen Miller,920 9th Pl,San Antonio,TX,78201,1/4/1973,Rented,+1-523-348-2476
+David Brown,411 Oak Blvd,Dallas,TX,75201,7/18/1979,Owned,+1-176-792-608
+Linda Jones,166 Cedar Dr,Los Angeles,CA,90001,9/27/1985,Rented,+1-789-499-504
+Emily Brown,886 Main St,San Antonio,TX,78201,3/21/1950,Owned,+1-452-907-6198
+James Brown,73 Oak Rd,Los Angeles,CA,90001,10/23/1966,Owned,+1-690-895-4397
+David Miller,829 6th Ln,San Jose,CA,95101,5/20/1956,Owned,+1-637-366-1927
+Robert Rodriguez,483 6th Dr,Houston,TX,77001,12/11/1984,Owned,+1-629-597-9202
+Sarah Jones,326 Main Ct,Phoenix,AZ,85001,4/11/1995,Owned,+1-279-161-3405
+Linda Smith,336 Cedar Ct,Chicago,IL,60601,4/3/1985,Rented,+1-699-542-4053
+Linda Rodriguez,424 View Pl,Philadelphia,PA,19101,9/15/1972,Rented,+1-865-311-933
+Robert Brown,364 View Ct,San Antonio,TX,78201,3/1/1972,Rented,+1-255-981-3196
+David Miller,640 Hill Ave,Phoenix,AZ,85001,7/19/1991,Rented,+1-124-322-4078
+John Miller,692 2nd Ln,San Diego,CA,92101,4/24/1977,Rented,+1-943-635-1602
+David Williams,443 7th Rd,Chicago,IL,60601,9/19/1950,Owned,+1-329-424-1260
+Robert Smith,615 Elm Way,San Antonio,TX,78201,3/5/1951,Owned,+1-845-218-7270
+Sarah Brown,42 7th Ave,Los Angeles,CA,90001,2/21/1955,Rented,+1-823-145-5880
+John Jones,330 Cedar Ave,Philadelphia,PA,19101,7/27/1957,Rented,+1-680-764-7099
+Sarah Smith,371 Elm Ave,Houston,TX,77001,2/12/1985,Rented,+1-550-562-7295
+Emily Johnson,549 Pine Way,New York,NY,10001,3/18/1958,Owned,+1-262-879-4705
+Michael Rodriguez,669 Lake Way,Dallas,TX,75201,7/12/1962,Owned,+1-263-181-7421
+Michael Williams,153 9th Blvd,Chicago,IL,60601,3/10/1953,Owned,+1-313-783-6529
+Sarah Rodriguez,605 Park St,Philadelphia,PA,19101,3/10/1998,Rented,+1-488-268-2163
+Emily Smith,576 View Ln,Dallas,TX,75201,11/26/1995,Owned,+1-810-252-3754
+Linda Rodriguez,749 5th St,Dallas,TX,75201,12/19/1982,Rented,+1-965-640-6385
+Michael Brown,939 Sunset Way,Dallas,TX,75201,8/4/1965,Owned,+1-896-937-8492
+John Brown,995 Elm Ct,San Jose,CA,95101,2/25/1957,Owned,+1-889-117-1243
+Emily Martinez,519 Maple Pl,San Antonio,TX,78201,5/14/1998,Owned,+1-875-396-4973
+Linda Garcia,405 4th Dr,Philadelphia,PA,19101,9/8/1991,Owned,+1-160-437-6779
+Emily Miller,368 8th Blvd,Houston,TX,77001,7/21/1967,Rented,+1-232-486-2402
+Jane Martinez,448 9th Rd,Los Angeles,CA,90001,11/13/1964,Owned,+1-715-539-3552
+John Martinez,982 Main Ct,San Antonio,TX,78201,3/22/1955,Rented,+1-607-305-576
+Robert Rodriguez,264 Park St,San Diego,CA,92101,7/6/1984,Rented,+1-601-307-1707
+Robert Smith,343 6th Blvd,Philadelphia,PA,19101,1/18/1950,Rented,+1-844-695-5276
+Sarah Martinez,508 2nd St,Houston,TX,77001,7/15/1959,Owned,+1-911-361-8416
+Jane Martinez,894 Elm St,Philadelphia,PA,19101,2/26/1969,Rented,+1-446-400-4269
+Jane Johnson,240 6th Way,San Diego,CA,92101,3/16/1980,Owned,+1-992-966-4155
+John Martinez,158 Sunset Blvd,San Jose,CA,95101,11/3/1959,Rented,+1-163-950-6311
+Sarah Davis,801 Oak Dr,San Jose,CA,95101,8/17/1969,Owned,+1-643-859-1129
+Emily Jones,975 1st Dr,New York,NY,10001,4/18/1979,Owned,+1-813-222-6724
+James Rodriguez,480 View Way,San Jose,CA,95101,11/15/1990,Owned,+1-310-574-7062
+Michael Davis,396 8th Ct,Phoenix,AZ,85001,3/15/1995,Rented,+1-494-768-1149
+Linda Garcia,213 Maple Dr,Phoenix,AZ,85001,4/11/1988,Owned,+1-442-767-4972
+Karen Smith,288 Lake Ave,Dallas,TX,75201,11/3/1977,Owned,+1-876-763-4580
+Sarah Rodriguez,489 7th Rd,Houston,TX,77001,6/24/1973,Owned,+1-678-453-8669
+Robert Davis,829 Main Ave,Phoenix,AZ,85001,7/23/1984,Rented,+1-334-459-468
+John Garcia,11 7th Blvd,Dallas,TX,75201,11/8/1950,Owned,+1-393-829-6131
+Emily Williams,567 Pine Ln,San Jose,CA,95101,10/19/1998,Owned,+1-487-317-8739
+David Davis,901 Oak Blvd,New York,NY,10001,2/1/1957,Rented,+1-833-711-5608
+Robert Brown,169 Oak Pl,Chicago,IL,60601,6/28/1969,Rented,+1-652-669-4628
+Karen Martinez,870 5th Pl,Dallas,TX,75201,10/19/1990,Owned,+1-258-577-4771
+James Davis,314 Pine Rd,Philadelphia,PA,19101,6/12/1969,Rented,+1-290-677-7632
+David Brown,755 Hill Rd,Chicago,IL,60601,2/4/1959,Owned,+1-559-281-2643
+Karen Smith,953 2nd Ave,San Antonio,TX,78201,1/13/1987,Owned,+1-693-520-4793
+Jane Johnson,140 9th Rd,San Diego,CA,92101,7/1/1998,Rented,+1-728-863-8645
+David Garcia,474 9th Rd,Los Angeles,CA,90001,1/16/1983,Owned,+1-924-885-1395
+Emily Garcia,710 Lake Rd,San Jose,CA,95101,12/18/1986,Owned,+1-946-702-1948
+John Smith,485 5th Ct,Dallas,TX,75201,10/17/1975,Rented,+1-837-679-3534
+John Brown,719 1st Ave,New York,NY,10001,7/21/1974,Rented,+1-696-835-1190
+Sarah Jones,591 Hill St,San Antonio,TX,78201,10/20/1984,Owned,+1-782-298-2660
+John Williams,584 Park Ln,San Diego,CA,92101,9/22/1993,Rented,+1-720-103-1193
+Emily Johnson,141 View St,New York,NY,10001,3/14/1961,Owned,+1-588-686-7460
+John Garcia,784 Pine Ln,Chicago,IL,60601,4/14/1973,Rented,+1-488-532-2383
+Sarah Davis,465 View Ct,San Diego,CA,92101,8/9/1972,Rented,+1-684-282-6785
+James Jones,97 Oak Ct,Dallas,TX,75201,6/2/1974,Rented,+1-169-737-7954
+Linda Garcia,487 Elm Rd,Los Angeles,CA,90001,5/5/1982,Rented,+1-864-851-4860
+Sarah Garcia,429 Lake St,Phoenix,AZ,85001,10/22/1966,Rented,+1-915-130-4885
+Linda Johnson,900 Cedar Ln,Houston,TX,77001,10/9/1977,Rented,+1-635-834-1222
+Sarah Miller,80 Maple Way,Phoenix,AZ,85001,6/6/1961,Owned,+1-396-478-4697
+Karen Jones,564 6th Dr,New York,NY,10001,9/27/1956,Rented,+1-294-100-6293
+Linda Garcia,67 Main St,San Jose,CA,95101,4/17/1974,Owned,+1-118-108-2647
+Sarah Rodriguez,543 Sunset Dr,New York,NY,10001,1/15/1977,Owned,+1-257-574-2176
+Linda Brown,302 2nd Rd,San Antonio,TX,78201,4/7/1975,Owned,+1-654-598-3873
+Emily Smith,854 1st Ct,Los Angeles,CA,90001,6/9/1984,Rented,+1-808-902-4656
+Linda Miller,685 View Way,San Diego,CA,92101,9/14/1953,Owned,+1-407-429-1223
+Michael Davis,690 Elm Blvd,Dallas,TX,75201,2/23/1991,Owned,+1-130-687-1062
+Emily Rodriguez,48 Main Way,New York,NY,10001,1/24/1950,Rented,+1-167-550-4351
+Linda Miller,362 Cedar Ave,Philadelphia,PA,19101,5/5/1965,Rented,+1-873-340-7977
+Michael Garcia,689 Lake Pl,Houston,TX,77001,12/20/1957,Rented,+1-733-908-7692
+James Brown,639 Main Blvd,Los Angeles,CA,90001,1/10/1953,Owned,+1-634-312-9565
+Karen Johnson,635 5th Pl,San Diego,CA,92101,2/4/1991,Rented,+1-242-378-800
+Emily Martinez,866 5th Ct,Houston,TX,77001,11/14/1986,Rented,+1-223-172-2141
+John Brown,948 Lake Ct,Los Angeles,CA,90001,1/28/1981,Owned,+1-498-823-4328
+Linda Brown,22 9th Dr,Philadelphia,PA,19101,6/5/1976,Owned,+1-728-637-1841
+David Williams,951 Park Ct,Philadelphia,PA,19101,2/23/1951,Rented,+1-589-714-6088
+Karen Miller,470 Maple Way,San Antonio,TX,78201,9/10/1989,Rented,+1-635-191-799
+Robert Brown,660 4th Ln,San Jose,CA,95101,2/8/1966,Rented,+1-308-652-9181
+James Martinez,857 6th Ct,Phoenix,AZ,85001,8/21/1950,Owned,+1-544-433-9926
+Sarah Brown,336 1st Ln,Houston,TX,77001,2/1/1954,Owned,+1-932-850-534
+David Williams,852 1st Way,Chicago,IL,60601,6/23/1972,Rented,+1-965-841-390
+Sarah Rodriguez,387 5th Ave,Phoenix,AZ,85001,2/1/1966,Rented,+1-707-289-2910
+Linda Brown,342 2nd Rd,Philadelphia,PA,19101,1/11/1977,Rented,+1-914-265-2563
+James Rodriguez,837 Oak Ln,New York,NY,10001,3/16/1952,Rented,+1-248-126-9492
+Michael Brown,987 6th Pl,Los Angeles,CA,90001,3/20/1994,Rented,+1-135-988-1136
+James Rodriguez,582 Oak Dr,Philadelphia,PA,19101,10/28/1956,Owned,+1-770-811-4629
+John Brown,606 2nd Ln,Chicago,IL,60601,1/19/1996,Owned,+1-402-247-8581
+Robert Brown,40 Elm Pl,Los Angeles,CA,90001,7/11/1988,Rented,+1-701-417-5377
+Karen Williams,621 Main Blvd,San Diego,CA,92101,4/18/1988,Rented,+1-561-440-4960
+Michael Williams,326 Maple Ln,San Diego,CA,92101,4/12/1985,Rented,+1-850-544-1894
+Robert Davis,797 Maple Ln,Phoenix,AZ,85001,8/25/1979,Rented,+1-987-114-7352
+Robert Jones,355 Hill St,New York,NY,10001,7/14/1997,Rented,+1-982-339-8036
+Emily Martinez,579 7th Way,Philadelphia,PA,19101,10/23/1966,Owned,+1-776-772-6761
+Karen Davis,720 Cedar St,San Antonio,TX,78201,12/6/1954,Rented,+1-644-132-942
+Karen Williams,664 6th Blvd,New York,NY,10001,8/1/1972,Owned,+1-105-140-5341
+Michael Garcia,849 7th Ln,Dallas,TX,75201,6/13/1959,Owned,+1-559-921-554
+John Rodriguez,600 Oak Rd,Los Angeles,CA,90001,7/11/1992,Owned,+1-523-927-4275
+Jane Williams,820 5th Rd,San Jose,CA,95101,7/5/1993,Owned,+1-236-628-1471
+Emily Williams,15 Hill Way,Dallas,TX,75201,10/5/1955,Rented,+1-326-572-9265
+Michael Jones,944 3rd Blvd,Phoenix,AZ,85001,11/9/1973,Owned,+1-910-743-6418
+Jane Jones,84 Cedar Rd,New York,NY,10001,4/2/1961,Owned,+1-215-341-162
+Robert Jones,26 1st St,Dallas,TX,75201,3/18/1951,Owned,+1-195-774-5097
+Michael Martinez,945 Oak Ct,New York,NY,10001,7/13/1994,Owned,+1-259-583-6899
+James Smith,980 Pine Dr,Chicago,IL,60601,9/18/1961,Owned,+1-118-974-2673
+Emily Johnson,95 1st Pl,San Diego,CA,92101,7/20/1959,Rented,+1-723-494-8678
+Robert Davis,743 3rd Ave,San Antonio,TX,78201,11/4/1983,Rented,+1-925-251-1796
+Karen Miller,821 6th Way,San Antonio,TX,78201,11/10/1967,Owned,+1-519-826-4102
+Karen Johnson,914 Park Blvd,San Antonio,TX,78201,9/11/1995,Rented,+1-910-222-4611
+Robert Brown,44 1st Dr,Chicago,IL,60601,10/9/1982,Rented,+1-140-450-5646
+Jane Jones,22 Park Way,Phoenix,AZ,85001,6/19/1957,Rented,+1-743-848-5338
+John Rodriguez,165 8th Dr,Los Angeles,CA,90001,11/13/1987,Rented,+1-311-467-9295
+John Smith,650 3rd Blvd,Phoenix,AZ,85001,4/22/1951,Owned,+1-918-849-9026
+Sarah Martinez,514 Lake Pl,New York,NY,10001,3/27/1985,Rented,+1-550-586-6919
+Karen Davis,354 2nd Ln,Dallas,TX,75201,12/26/1968,Rented,+1-573-297-5668
+Linda Williams,813 Lake Ln,Dallas,TX,75201,9/12/1991,Rented,+1-924-571-3603
+David Brown,96 Elm Ave,San Antonio,TX,78201,11/13/1992,Rented,+1-915-323-2601
+John Brown,294 6th Rd,Los Angeles,CA,90001,8/13/1960,Rented,+1-526-986-9972
+Sarah Martinez,112 9th Ave,Houston,TX,77001,2/19/1984,Rented,+1-128-930-1220
+Sarah Johnson,513 1st St,Philadelphia,PA,19101,3/6/1971,Owned,+1-311-885-9512
+Michael Smith,457 Pine Blvd,Los Angeles,CA,90001,9/3/1975,Owned,+1-996-402-9107
+John Williams,523 Cedar Ct,Dallas,TX,75201,11/16/1974,Owned,+1-712-976-4810
+Jane Smith,818 9th Pl,Philadelphia,PA,19101,3/9/1960,Rented,+1-160-825-8234
+Karen Smith,861 Park Way,San Jose,CA,95101,11/25/1963,Owned,+1-554-243-413
+Linda Williams,731 7th Dr,New York,NY,10001,7/11/1983,Owned,+1-722-769-6356
+James Jones,728 6th Blvd,Phoenix,AZ,85001,11/2/1969,Owned,+1-252-148-741
+John Jones,885 Main Rd,Chicago,IL,60601,1/23/1953,Rented,+1-410-971-489
+Jane Smith,822 Cedar Rd,Los Angeles,CA,90001,1/19/1989,Rented,+1-286-496-9461
+James Martinez,580 Cedar Ln,Houston,TX,77001,5/18/1985,Rented,+1-500-975-2609
+Sarah Johnson,22 3rd Ln,Houston,TX,77001,8/15/1995,Rented,+1-417-508-3610
+Sarah Garcia,148 7th St,Houston,TX,77001,11/10/1970,Owned,+1-708-419-7746
+Linda Martinez,173 5th Pl,Chicago,IL,60601,5/6/1974,Rented,+1-115-854-8096
+Linda Johnson,892 Pine Pl,Houston,TX,77001,5/3/1953,Owned,+1-840-221-7142
+Emily Garcia,641 4th Pl,San Jose,CA,95101,3/24/1975,Rented,+1-667-171-9861
+James Miller,268 5th Way,San Antonio,TX,78201,12/16/1996,Rented,+1-220-566-5413
+Robert Davis,167 Park Rd,Chicago,IL,60601,7/21/1961,Owned,+1-630-647-2757
+Robert Smith,798 5th Way,Houston,TX,77001,9/5/1994,Owned,+1-509-275-6068
+David Brown,270 5th St,Los Angeles,CA,90001,8/13/1987,Rented,+1-241-889-4885
+Karen Martinez,684 Sunset St,Dallas,TX,75201,5/28/1957,Rented,+1-243-615-9949
+David Rodriguez,838 9th Way,Phoenix,AZ,85001,2/11/1998,Owned,+1-227-991-1529
+David Johnson,909 Park Pl,Houston,TX,77001,12/25/1954,Owned,+1-562-908-9997
+Linda Garcia,590 Lake Dr,San Antonio,TX,78201,7/2/1972,Rented,+1-829-158-6097
+Emily Garcia,238 6th Way,San Antonio,TX,78201,10/9/1986,Owned,+1-598-565-5761
+Linda Garcia,337 7th Pl,Los Angeles,CA,90001,11/27/1995,Rented,+1-817-112-2693
+James Garcia,45 Lake Pl,New York,NY,10001,4/14/1962,Rented,+1-446-323-1990
+James Martinez,38 Elm Rd,Houston,TX,77001,1/23/1969,Owned,+1-976-129-6445
+Linda Miller,182 View Way,Chicago,IL,60601,7/11/1965,Rented,+1-708-275-9926
+Jane Jones,902 Park St,San Diego,CA,92101,8/20/1962,Rented,+1-532-186-6841
+Jane Brown,986 Hill Pl,Phoenix,AZ,85001,2/2/1969,Owned,+1-762-174-6519
+Jane Garcia,403 5th St,Houston,TX,77001,7/5/1958,Owned,+1-710-830-2486
+Jane Rodriguez,157 3rd Ct,Philadelphia,PA,19101,5/8/1998,Rented,+1-101-916-775
+Karen Garcia,335 Oak Way,San Jose,CA,95101,7/2/1996,Owned,+1-523-662-2757
+Jane Davis,644 9th Ct,San Jose,CA,95101,6/7/1966,Owned,+1-405-229-4821
+Robert Rodriguez,687 6th Ave,San Diego,CA,92101,8/9/1965,Owned,+1-862-668-8437
+Michael Johnson,553 8th Rd,New York,NY,10001,5/11/1999,Rented,+1-110-764-1189
+Robert Jones,911 5th Blvd,San Jose,CA,95101,5/20/1952,Rented,+1-459-616-9881
+James Davis,335 6th Blvd,Dallas,TX,75201,5/17/1973,Owned,+1-453-598-2789
+Emily Williams,202 Pine Way,Phoenix,AZ,85001,9/10/1957,Owned,+1-543-168-6655
+Michael Davis,555 Sunset Ct,Chicago,IL,60601,5/11/1953,Rented,+1-590-140-9802
+Robert Williams,274 1st Blvd,San Antonio,TX,78201,5/3/1980,Rented,+1-339-243-2922
+James Johnson,187 2nd Blvd,San Diego,CA,92101,2/13/1994,Owned,+1-137-368-8413
+Linda Brown,530 Main Rd,Houston,TX,77001,8/3/1994,Owned,+1-760-386-7126
+John Smith,68 Main Rd,Dallas,TX,75201,7/17/1983,Rented,+1-550-986-3629
+Linda Williams,360 3rd Way,Chicago,IL,60601,12/25/1968,Rented,+1-272-524-8174
+Linda Garcia,730 Main St,San Jose,CA,95101,9/21/1970,Rented,+1-771-671-6547
+Sarah Martinez,892 9th Ct,San Diego,CA,92101,3/7/1970,Owned,+1-520-877-9480
+John Davis,319 Hill Ln,San Diego,CA,92101,12/28/1988,Rented,+1-148-771-7598
+Robert Johnson,847 Hill Pl,Phoenix,AZ,85001,1/5/1967,Owned,+1-120-944-4138
+James Davis,323 3rd Ln,Chicago,IL,60601,10/3/1955,Owned,+1-264-638-4433
+James Rodriguez,436 View Dr,San Diego,CA,92101,3/12/1992,Rented,+1-342-258-1880
+Sarah Garcia,330 Park Pl,Dallas,TX,75201,1/24/1997,Rented,+1-137-508-7815
+Jane Davis,803 7th St,Chicago,IL,60601,9/19/1957,Owned,+1-939-431-8874
+James Jones,70 1st Pl,Chicago,IL,60601,10/12/1988,Owned,+1-429-177-8558
+Robert Brown,592 5th Pl,Los Angeles,CA,90001,2/9/1975,Rented,+1-997-429-7938
+Robert Rodriguez,656 4th Ln,Philadelphia,PA,19101,3/20/1973,Owned,+1-972-329-5276
+David Smith,424 Lake Blvd,San Jose,CA,95101,5/18/1965,Owned,+1-366-249-351
+James Johnson,707 2nd Way,Dallas,TX,75201,8/1/1960,Rented,+1-775-187-3002
+Linda Jones,864 3rd Ave,Los Angeles,CA,90001,8/3/1991,Owned,+1-714-907-1186
+Linda Martinez,541 3rd Ave,New York,NY,10001,11/24/1979,Owned,+1-633-877-7016
+Sarah Martinez,775 Park Blvd,Houston,TX,77001,6/20/1999,Rented,+1-567-750-404
+Emily Garcia,268 View Dr,Chicago,IL,60601,6/3/1995,Owned,+1-766-244-4692
+James Davis,504 Park Blvd,Dallas,TX,75201,10/28/1981,Rented,+1-853-766-9837
+John Johnson,533 3rd Ct,Philadelphia,PA,19101,3/14/1983,Owned,+1-122-408-778
+Sarah Johnson,108 Elm Ave,Chicago,IL,60601,5/18/1998,Owned,+1-393-719-7102
+Emily Smith,379 7th Way,Philadelphia,PA,19101,3/5/1995,Rented,+1-373-935-9296
+Linda Brown,359 Main St,San Antonio,TX,78201,1/3/1960,Owned,+1-315-167-855
+John Jones,28 Hill Dr,Chicago,IL,60601,12/7/1975,Owned,+1-798-772-334
+James Jones,106 Hill Rd,Houston,TX,77001,6/22/1985,Owned,+1-829-442-1796
+David Martinez,888 9th Pl,Los Angeles,CA,90001,11/10/1950,Owned,+1-392-430-183
+Linda Garcia,677 Cedar Dr,Houston,TX,77001,5/27/1984,Owned,+1-143-137-1504
+John Garcia,69 Park Rd,Phoenix,AZ,85001,9/7/1953,Rented,+1-663-340-8464
+Jane Brown,590 8th Ln,Houston,TX,77001,12/28/1962,Rented,+1-177-983-7777
+David Martinez,79 Sunset Rd,San Jose,CA,95101,5/13/1987,Owned,+1-575-747-4779
+Michael Jones,951 8th Pl,San Jose,CA,95101,7/25/1958,Owned,+1-152-238-8415
+Michael Brown,456 Elm Blvd,San Diego,CA,92101,3/5/1999,Owned,+1-719-665-8903
+Linda Jones,315 3rd Ct,Houston,TX,77001,9/6/1968,Rented,+1-315-826-6470
+John Johnson,50 1st Ave,Dallas,TX,75201,4/17/1950,Rented,+1-146-600-5196
+Jane Davis,753 Maple Ave,Philadelphia,PA,19101,12/23/1987,Owned,+1-314-751-7057
+Michael Garcia,578 Park St,San Diego,CA,92101,2/24/1956,Rented,+1-964-332-2691
+Michael Martinez,429 1st Ct,Dallas,TX,75201,8/19/1990,Rented,+1-961-188-5225
+Robert Smith,212 Oak St,San Jose,CA,95101,2/24/1974,Rented,+1-664-942-6078
+Sarah Davis,386 4th Way,Dallas,TX,75201,8/10/1990,Owned,+1-990-814-5992
+James Davis,4 Pine St,Phoenix,AZ,85001,7/2/1971,Rented,+1-498-731-9012
+David Miller,772 Cedar Blvd,Dallas,TX,75201,2/7/1980,Owned,+1-789-320-9604
+Sarah Johnson,411 Main Blvd,Dallas,TX,75201,2/3/1997,Rented,+1-216-883-5183
+Robert Miller,264 6th Way,San Antonio,TX,78201,1/24/1952,Rented,+1-532-853-7630
+Emily Jones,754 9th Blvd,Houston,TX,77001,2/4/1955,Owned,+1-357-199-2758
+Michael Brown,860 Cedar Ct,Los Angeles,CA,90001,6/11/1954,Rented,+1-783-226-9752
+Jane Davis,710 Lake Dr,San Antonio,TX,78201,4/15/1993,Rented,+1-537-342-6220
+Michael Johnson,596 9th Pl,Dallas,TX,75201,12/12/1996,Rented,+1-320-706-2760
+Linda Williams,295 1st Dr,San Antonio,TX,78201,5/24/1961,Owned,+1-732-998-2287
+Robert Brown,677 Cedar Ct,Chicago,IL,60601,7/4/1972,Rented,+1-840-937-8277
+Robert Jones,775 5th Way,San Antonio,TX,78201,2/11/1995,Rented,+1-284-580-8682
+Karen Garcia,980 Maple St,San Antonio,TX,78201,5/5/1998,Rented,+1-806-351-2180
+Emily Brown,762 4th Ct,New York,NY,10001,9/26/1998,Owned,+1-626-458-313
+Jane Smith,249 Cedar Ln,San Jose,CA,95101,3/9/1958,Owned,+1-433-340-1282
+James Miller,515 5th Pl,Chicago,IL,60601,3/18/1953,Owned,+1-995-425-3553
+Sarah Johnson,700 3rd Ave,New York,NY,10001,9/8/1954,Rented,+1-991-803-9392
+James Jones,764 Hill Dr,Philadelphia,PA,19101,8/13/1999,Rented,+1-231-642-2280
+James Rodriguez,67 4th St,Chicago,IL,60601,9/3/1955,Owned,+1-650-314-7144
+Jane Martinez,318 Park Way,Los Angeles,CA,90001,3/21/1999,Owned,+1-203-319-6436
+Sarah Rodriguez,352 Elm Pl,San Jose,CA,95101,12/20/1997,Owned,+1-993-260-7393
+Emily Rodriguez,182 Oak Way,San Jose,CA,95101,2/24/1964,Owned,+1-737-593-7223
+David Jones,721 Maple Way,Chicago,IL,60601,9/8/1990,Rented,+1-224-384-3727
+Emily Brown,78 Lake St,Phoenix,AZ,85001,8/4/1992,Owned,+1-846-860-3107
+David Brown,958 Park Pl,San Diego,CA,92101,11/7/1991,Rented,+1-327-192-4067
+Linda Brown,223 Elm Blvd,San Jose,CA,95101,11/22/1985,Owned,+1-535-470-6234
+David Rodriguez,94 Oak Ln,Los Angeles,CA,90001,2/15/1975,Owned,+1-287-373-6446
+Sarah Garcia,816 Elm Rd,Philadelphia,PA,19101,11/12/1968,Owned,+1-159-426-8422
+Michael Williams,671 9th Dr,Chicago,IL,60601,5/6/1969,Owned,+1-348-868-3207
+Sarah Brown,535 Oak Blvd,Los Angeles,CA,90001,3/18/1978,Rented,+1-804-161-5393
+John Garcia,519 8th Ct,San Diego,CA,92101,5/15/1996,Rented,+1-447-815-7514
+Karen Williams,414 Cedar Rd,San Jose,CA,95101,4/10/1965,Owned,+1-387-130-9488
+Michael Martinez,547 Lake Blvd,Phoenix,AZ,85001,5/25/1991,Rented,+1-980-611-7759
+James Brown,761 Cedar Way,Dallas,TX,75201,5/3/1954,Owned,+1-437-499-6424
+Karen Martinez,73 Maple St,New York,NY,10001,9/15/1964,Rented,+1-910-199-1190
+Jane Miller,193 Sunset Ln,Dallas,TX,75201,12/17/1983,Rented,+1-429-324-8509
+Jane Miller,640 Oak Ave,Dallas,TX,75201,3/11/1978,Owned,+1-759-135-2460
+John Smith,191 View Dr,Los Angeles,CA,90001,12/27/1954,Rented,+1-438-272-3098
+James Brown,695 Maple St,San Antonio,TX,78201,9/24/1994,Rented,+1-722-948-8321
+Jane Williams,309 View Rd,Los Angeles,CA,90001,5/15/1963,Rented,+1-988-519-566
+David Garcia,147 Pine Blvd,Houston,TX,77001,1/13/1950,Rented,+1-266-492-9068
+Emily Davis,702 Oak Ln,San Diego,CA,92101,12/25/1998,Rented,+1-507-542-4233
+Sarah Brown,42 8th Pl,Phoenix,AZ,85001,6/21/1996,Owned,+1-595-985-9489
+Jane Johnson,544 1st Blvd,San Antonio,TX,78201,10/23/1992,Rented,+1-781-557-1861
+Robert Miller,32 3rd Dr,San Diego,CA,92101,7/19/1963,Rented,+1-235-565-7851
+James Miller,557 Maple Ct,Los Angeles,CA,90001,7/3/1995,Rented,+1-249-571-9040
+Robert Garcia,975 Hill Ct,Dallas,TX,75201,5/21/1957,Rented,+1-539-151-4189
+John Davis,218 1st Pl,San Diego,CA,92101,5/19/1950,Owned,+1-483-958-3153
+James Jones,265 2nd Blvd,Phoenix,AZ,85001,9/15/1958,Rented,+1-906-264-9329
+Karen Miller,892 9th Blvd,Chicago,IL,60601,1/11/1997,Rented,+1-756-738-670
+Sarah Garcia,545 8th Rd,Houston,TX,77001,12/5/1974,Owned,+1-544-968-9383
+Emily Brown,639 Maple Ct,Philadelphia,PA,19101,5/8/1973,Rented,+1-981-115-6782
+Emily Jones,546 View Way,Houston,TX,77001,5/10/1972,Rented,+1-139-585-658
+Karen Jones,64 6th Way,Philadelphia,PA,19101,11/17/1976,Owned,+1-212-565-2621
+Karen Brown,576 Sunset Ave,San Diego,CA,92101,6/23/1994,Owned,+1-257-710-24
+Karen Jones,708 Oak Pl,San Jose,CA,95101,3/8/1992,Rented,+1-822-832-6330
+Karen Davis,638 6th Way,San Jose,CA,95101,3/1/1950,Rented,+1-310-928-6220
+Karen Johnson,711 Elm Ct,Phoenix,AZ,85001,3/8/1974,Rented,+1-674-814-4911
+David Garcia,716 Lake Way,San Diego,CA,92101,6/7/1980,Rented,+1-294-561-955
+Sarah Smith,785 4th Ln,San Jose,CA,95101,1/13/1979,Owned,+1-242-923-4525
+Emily Garcia,490 Cedar St,Dallas,TX,75201,7/6/1995,Rented,+1-345-736-1994
+Jane Smith,64 Main Way,Dallas,TX,75201,6/10/1953,Rented,+1-708-620-2821
+James Smith,509 Maple Pl,New York,NY,10001,4/9/1966,Rented,+1-304-508-4538
+James Rodriguez,445 4th Way,San Diego,CA,92101,4/12/1950,Rented,+1-391-421-6889
+Jane Miller,709 Park Ln,San Jose,CA,95101,5/17/1960,Rented,+1-460-874-1014
+James Garcia,721 7th Ct,Houston,TX,77001,7/4/1982,Rented,+1-123-930-8360
+Emily Smith,466 7th Way,Dallas,TX,75201,6/13/1992,Owned,+1-828-871-385
+Michael Garcia,965 7th Ave,New York,NY,10001,6/15/1962,Owned,+1-269-185-4100
+John Williams,437 Main Dr,San Antonio,TX,78201,9/18/1965,Rented,+1-573-317-9217
+Robert Johnson,365 8th Pl,Dallas,TX,75201,6/4/1999,Rented,+1-442-614-4193
+Karen Jones,545 Pine Pl,New York,NY,10001,2/20/1958,Owned,+1-743-923-6596
+John Jones,618 Elm Ave,New York,NY,10001,3/13/1990,Rented,+1-162-659-5366
+Karen Garcia,898 1st Blvd,San Jose,CA,95101,12/28/1950,Owned,+1-157-681-5913
+Linda Davis,437 5th Way,Philadelphia,PA,19101,8/12/1992,Owned,+1-117-543-8247
+Karen Johnson,858 1st Ave,Philadelphia,PA,19101,8/1/1972,Owned,+1-482-247-2383
+Emily Miller,477 Park Rd,San Antonio,TX,78201,6/25/1967,Owned,+1-681-744-1887
+John Brown,596 2nd Ave,San Diego,CA,92101,10/7/1961,Rented,+1-232-536-8488
+John Jones,264 Main Ave,Houston,TX,77001,3/10/1988,Owned,+1-836-955-2298
+Michael Martinez,841 Lake St,San Diego,CA,92101,6/22/1959,Owned,+1-523-282-1073
+James Martinez,218 Cedar Ct,Dallas,TX,75201,3/28/1981,Rented,+1-765-575-4503
+Jane Jones,608 Sunset Ln,Houston,TX,77001,12/10/1955,Owned,+1-976-157-2836
+David Smith,292 Main Rd,Houston,TX,77001,1/27/1979,Owned,+1-106-883-6978
+David Jones,815 Park Pl,San Antonio,TX,78201,9/16/1976,Rented,+1-973-272-4656
+Jane Garcia,244 View Pl,Phoenix,AZ,85001,2/19/1976,Rented,+1-237-955-1422
+Karen Johnson,334 2nd Ct,Houston,TX,77001,3/7/1955,Rented,+1-859-436-8465
+Linda Rodriguez,977 5th Ct,Dallas,TX,75201,5/21/1955,Rented,+1-318-407-9631
+David Jones,485 2nd Pl,New York,NY,10001,8/5/1961,Owned,+1-865-352-9800
+Michael Rodriguez,45 Lake Rd,New York,NY,10001,1/25/1982,Owned,+1-860-438-53
+David Smith,573 Maple St,Dallas,TX,75201,5/7/1995,Rented,+1-366-155-1294
+Robert Rodriguez,669 7th Dr,Houston,TX,77001,9/4/1992,Rented,+1-681-177-8079
+Robert Davis,164 Main Way,Dallas,TX,75201,10/1/1986,Rented,+1-901-664-9770
+Sarah Johnson,19 4th Ln,San Diego,CA,92101,3/10/1980,Rented,+1-889-905-1049
+Karen Martinez,725 Maple Ave,San Antonio,TX,78201,7/14/1998,Owned,+1-195-479-1818
+Jane Garcia,681 Oak Pl,San Diego,CA,92101,4/21/1964,Rented,+1-272-604-1295
+Jane Rodriguez,527 Hill Blvd,Phoenix,AZ,85001,5/15/1957,Owned,+1-222-362-6302
+John Garcia,156 Maple St,Houston,TX,77001,7/3/1963,Rented,+1-739-700-5016
+Sarah Johnson,508 Maple Way,Dallas,TX,75201,8/23/1965,Owned,+1-735-897-6523
+Robert Rodriguez,638 Park Ct,Chicago,IL,60601,12/19/1968,Rented,+1-298-436-6779
+Jane Miller,620 Park Blvd,San Antonio,TX,78201,6/7/1994,Rented,+1-904-513-3859
+James Smith,374 Main Rd,Houston,TX,77001,9/15/1976,Owned,+1-138-913-5501
+Emily Smith,328 6th Dr,Los Angeles,CA,90001,4/22/1973,Rented,+1-486-329-5423
+John Brown,805 Hill Rd,San Antonio,TX,78201,9/20/1951,Owned,+1-300-164-62
+James Martinez,60 8th Ln,Houston,TX,77001,2/18/1952,Rented,+1-146-353-4290
+Emily Garcia,210 Elm Pl,Phoenix,AZ,85001,7/10/1975,Owned,+1-577-249-1288
+David Jones,547 Elm Rd,San Antonio,TX,78201,9/20/1977,Rented,+1-565-707-7116
+Emily Miller,272 4th Ave,San Antonio,TX,78201,12/14/1966,Owned,+1-677-549-4050
+Robert Smith,628 4th Ln,San Antonio,TX,78201,1/24/1998,Rented,+1-572-600-5977
+Jane Jones,831 Elm Ave,Houston,TX,77001,2/22/1957,Rented,+1-547-455-3815
+Linda Rodriguez,606 Cedar Rd,Dallas,TX,75201,8/25/1994,Owned,+1-296-627-785
+Karen Miller,907 4th St,New York,NY,10001,10/22/1958,Rented,+1-721-391-3802
+Karen Jones,860 2nd St,Phoenix,AZ,85001,10/9/1952,Rented,+1-676-288-8418
+Robert Williams,446 1st St,Philadelphia,PA,19101,1/27/1954,Rented,+1-527-597-2792
+Emily Johnson,480 9th Rd,Houston,TX,77001,11/20/1991,Rented,+1-598-659-3383
+Karen Garcia,30 8th St,Phoenix,AZ,85001,11/20/1978,Owned,+1-196-946-3068
+Michael Williams,855 9th Ave,San Antonio,TX,78201,2/13/1998,Rented,+1-988-414-5641
+Emily Smith,29 5th Pl,Philadelphia,PA,19101,6/17/1998,Owned,+1-131-979-1471
+David Garcia,850 Sunset Ct,Dallas,TX,75201,3/1/1957,Rented,+1-273-672-3536
+Linda Smith,588 6th Ln,Phoenix,AZ,85001,7/11/1968,Rented,+1-928-965-4778
+Linda Martinez,896 View Way,New York,NY,10001,6/5/1989,Owned,+1-325-836-5890
+James Smith,545 Hill Pl,Dallas,TX,75201,3/3/1988,Rented,+1-727-760-2214
+Sarah Davis,566 View St,Phoenix,AZ,85001,10/8/1964,Owned,+1-682-361-8068
+James Martinez,472 9th Pl,Chicago,IL,60601,3/27/1961,Owned,+1-127-244-9409
+Sarah Rodriguez,567 Cedar Ave,Chicago,IL,60601,10/26/1957,Owned,+1-985-714-693
+Jane Jones,999 Pine Ct,San Antonio,TX,78201,4/1/1975,Rented,+1-892-309-8775
+David Martinez,351 Elm Ave,San Antonio,TX,78201,5/9/1995,Rented,+1-620-458-9239
+Jane Williams,492 Main Ln,Dallas,TX,75201,3/10/1969,Rented,+1-446-740-4023
+Emily Smith,96 9th Pl,Houston,TX,77001,7/5/1980,Rented,+1-104-102-128
+David Williams,649 Maple Dr,San Jose,CA,95101,4/24/1954,Rented,+1-482-998-9016
+Karen Rodriguez,902 Oak Ln,San Antonio,TX,78201,5/13/1958,Rented,+1-388-922-2677
+Michael Martinez,584 Pine Dr,San Antonio,TX,78201,10/4/1981,Rented,+1-471-368-1635
+John Jones,317 Oak Ct,Los Angeles,CA,90001,5/2/1991,Owned,+1-618-368-7703
+Linda Miller,91 Oak Blvd,Phoenix,AZ,85001,12/4/1955,Owned,+1-762-818-8758
+James Rodriguez,753 8th Ct,Houston,TX,77001,10/28/1994,Rented,+1-718-419-7769
+Karen Martinez,111 7th Way,Philadelphia,PA,19101,2/10/1976,Owned,+1-890-935-6370
+Linda Rodriguez,383 6th Rd,San Diego,CA,92101,5/12/1951,Owned,+1-995-177-4084
+Emily Jones,570 8th Ct,San Diego,CA,92101,12/3/1992,Rented,+1-384-771-2210
+Linda Garcia,808 7th Ave,Los Angeles,CA,90001,4/25/1958,Owned,+1-705-576-4037
+Michael Johnson,961 9th Blvd,Dallas,TX,75201,3/16/1951,Rented,+1-256-864-9421
+Robert Jones,929 9th Ave,San Antonio,TX,78201,8/19/1959,Owned,+1-329-785-7666
+Robert Martinez,817 Sunset Dr,Houston,TX,77001,8/7/1997,Rented,+1-234-181-2507
+Linda Brown,124 5th St,Los Angeles,CA,90001,8/14/1981,Owned,+1-396-527-8436
+Jane Miller,136 Cedar Pl,Philadelphia,PA,19101,6/10/1961,Owned,+1-907-322-1200
+John Brown,670 Park Ave,Los Angeles,CA,90001,12/27/1953,Rented,+1-978-156-4764
+Jane Garcia,116 6th Way,New York,NY,10001,7/7/1956,Rented,+1-487-732-4027
+Sarah Johnson,556 Park Ln,New York,NY,10001,4/20/1977,Rented,+1-337-265-8170
+Jane Brown,263 Elm St,San Antonio,TX,78201,4/16/1963,Rented,+1-527-539-1985
+Jane Rodriguez,961 Park Ave,Los Angeles,CA,90001,10/16/1971,Owned,+1-883-496-3137
+Linda Williams,779 5th Dr,Houston,TX,77001,8/1/1957,Rented,+1-303-372-8598
+Linda Garcia,502 Lake Way,New York,NY,10001,7/27/1983,Owned,+1-839-880-5838
+Karen Rodriguez,341 Oak Ct,Los Angeles,CA,90001,10/7/1952,Rented,+1-163-440-1661
+John Smith,275 7th Dr,Philadelphia,PA,19101,4/25/1961,Rented,+1-817-438-3544
+John Smith,709 Main Rd,San Antonio,TX,78201,10/7/1992,Rented,+1-502-406-7965
+Linda Davis,923 Oak Blvd,Dallas,TX,75201,6/10/1970,Rented,+1-423-459-1077
+Robert Johnson,901 7th St,New York,NY,10001,9/28/1971,Rented,+1-639-689-3470
+Emily Davis,260 2nd Pl,New York,NY,10001,4/10/1996,Rented,+1-239-192-4836
+John Jones,36 8th Rd,San Jose,CA,95101,4/10/1973,Rented,+1-716-818-9389
+David Jones,36 Main Ln,San Diego,CA,92101,4/24/1998,Owned,+1-262-888-6894
+John Davis,648 6th Way,Houston,TX,77001,2/21/1965,Rented,+1-513-428-1363
+David Johnson,921 Sunset Ave,Dallas,TX,75201,5/23/1963,Owned,+1-718-780-4625
+Karen Davis,688 Lake Rd,Philadelphia,PA,19101,6/4/1962,Owned,+1-461-830-3073
+Michael Davis,317 Main St,Dallas,TX,75201,3/26/1984,Rented,+1-607-315-7477
+Emily Martinez,534 Cedar Dr,San Antonio,TX,78201,9/25/1962,Owned,+1-663-788-6394
+John Johnson,465 Oak Pl,San Jose,CA,95101,1/25/1994,Owned,+1-627-206-1029
+James Martinez,210 Sunset Ln,San Diego,CA,92101,4/4/1969,Rented,+1-682-139-5809
+Robert Johnson,950 4th Ln,Phoenix,AZ,85001,8/1/1974,Rented,+1-325-597-8086
+Jane Martinez,863 View St,San Jose,CA,95101,9/8/1998,Rented,+1-120-243-4103
+James Brown,534 Maple Ln,San Jose,CA,95101,3/3/1990,Rented,+1-350-456-1407
+Linda Johnson,29 Pine Ln,Philadelphia,PA,19101,7/27/1953,Rented,+1-749-415-9316
+Robert Garcia,417 8th St,Houston,TX,77001,10/28/1987,Rented,+1-748-421-2948
+Karen Williams,73 7th Blvd,Houston,TX,77001,4/1/1969,Owned,+1-566-741-5260
+John Williams,207 6th Blvd,New York,NY,10001,12/4/1979,Owned,+1-416-710-7673
+James Brown,633 7th Blvd,Phoenix,AZ,85001,3/27/1971,Owned,+1-643-870-5815
+Jane Garcia,31 8th Ave,San Diego,CA,92101,9/27/1995,Owned,+1-104-804-9523
+John Martinez,128 Lake St,New York,NY,10001,9/22/1982,Owned,+1-325-739-8133
+David Williams,562 Pine Pl,Dallas,TX,75201,10/25/1957,Rented,+1-343-325-6459
+Jane Johnson,359 Cedar Way,New York,NY,10001,1/21/1993,Owned,+1-114-910-7922
+Karen Brown,30 2nd St,Philadelphia,PA,19101,6/27/1970,Rented,+1-558-629-5931
+David Martinez,821 Park St,Houston,TX,77001,9/28/1974,Owned,+1-964-111-5574
+Karen Smith,664 Main Way,San Antonio,TX,78201,7/17/1964,Rented,+1-492-800-2431
+Michael Johnson,416 4th Pl,Chicago,IL,60601,2/3/1995,Rented,+1-764-502-8280
+Robert Miller,453 Lake Ave,Chicago,IL,60601,5/12/1983,Owned,+1-673-444-7534
+David Rodriguez,902 3rd Ct,New York,NY,10001,9/3/1998,Rented,+1-122-999-9760
+Karen Johnson,42 Cedar St,San Jose,CA,95101,5/4/1987,Owned,+1-982-648-799
+Linda Williams,142 Pine Pl,New York,NY,10001,5/4/1986,Rented,+1-852-414-9084
+David Johnson,540 Main Ave,Los Angeles,CA,90001,11/3/1961,Owned,+1-234-835-3453
+John Martinez,802 2nd Ln,San Jose,CA,95101,3/26/1994,Rented,+1-338-595-6714
+Robert Martinez,993 Main Pl,New York,NY,10001,7/27/1965,Owned,+1-214-578-9139
+Linda Johnson,811 Sunset Ct,San Diego,CA,92101,4/11/1959,Rented,+1-509-229-9253
+Michael Martinez,314 1st Ave,San Diego,CA,92101,10/1/1953,Rented,+1-425-509-9898
+David Miller,576 5th Rd,New York,NY,10001,12/10/1995,Rented,+1-330-516-3112
+James Garcia,363 Hill Dr,San Diego,CA,92101,1/13/1962,Rented,+1-442-458-2365
+Emily Jones,457 Hill Dr,New York,NY,10001,12/16/1979,Rented,+1-127-719-8965
